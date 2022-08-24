@@ -1,9 +1,10 @@
 # Readme
 
-## Project: Leetcode
+## Project: LeetCode
 
 ### Description
 A section of the repository dedicated to code developed in solving of LeetCode Problems. Scope primarily involves Python, but also includes Problem Solving, SQL, and R.
+LeetCode is an online website designed to help you enhance your skills, expand your knowledge and prepare for technical interviews.
 
 ### Folder Repositories
 
