@@ -1,0 +1,38 @@
+{
+  "team": "Monday_Hijinks",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 21,
+  "record": {
+    "wins": 7,
+    "losses": 1,
+    "ties": 13
+  },
+  "points": {
+    "for": 66,
+    "against": 23,
+    "diff": 43,
+    "avg_for_per_game": 3.143,
+    "avg_against_per_game": 1.095
+  },
+  "hammer": {
+    "ends": 23,
+    "scoring_ends": 15,
+    "two_plus_ends": 9,
+    "blank_ends": 2,
+    "scoring_rate": 0.652,
+    "two_plus_rate": 0.391,
+    "blank_rate": 0.087,
+    "steals_allowed": 6
+  },
+  "no_hammer": {
+    "ends": 29,
+    "steals_for": 18,
+    "steal_rate": 0.621,
+    "force_exactly_one_ends": 7,
+    "force_rate": 0.241,
+    "defense_leq_one_ends": 26,
+    "defense_leq_one_rate": 0.897
+  }
+}

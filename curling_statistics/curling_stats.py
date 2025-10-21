@@ -422,7 +422,7 @@ def main():
     p.add_argument("--season", default=None, help="Optional season filter (exact match)")
     p.add_argument("--out-json", default=None, help="Optional path to write aggregate stats JSON")
     p.add_argument("--out-games", default=None, help="Optional path to write per-game CSV/XLSX/Parquet")
-
+    
     args = p.parse_args()
 
     df = load_table(args.input)

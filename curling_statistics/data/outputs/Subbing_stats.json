@@ -1,0 +1,38 @@
+{
+  "team": "Subbing",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 6,
+  "record": {
+    "wins": 3,
+    "losses": 3,
+    "ties": 0
+  },
+  "points": {
+    "for": 37,
+    "against": 28,
+    "diff": 9,
+    "avg_for_per_game": 6.167,
+    "avg_against_per_game": 4.667
+  },
+  "hammer": {
+    "ends": 22,
+    "scoring_ends": 14,
+    "two_plus_ends": 6,
+    "blank_ends": 1,
+    "scoring_rate": 0.636,
+    "two_plus_rate": 0.273,
+    "blank_rate": 0.045,
+    "steals_allowed": 7
+  },
+  "no_hammer": {
+    "ends": 20,
+    "steals_for": 10,
+    "steal_rate": 0.5,
+    "force_exactly_one_ends": 5,
+    "force_rate": 0.25,
+    "defense_leq_one_ends": 15,
+    "defense_leq_one_rate": 0.75
+  }
+}

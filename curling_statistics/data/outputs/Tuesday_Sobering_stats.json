@@ -1,0 +1,38 @@
+{
+  "team": "Tuesday_Sobering",
+  "seasons": [
+    "2024-2025"
+  ],
+  "games_played": 17,
+  "record": {
+    "wins": 8,
+    "losses": 7,
+    "ties": 2
+  },
+  "points": {
+    "for": 104,
+    "against": 87,
+    "diff": 17,
+    "avg_for_per_game": 6.118,
+    "avg_against_per_game": 5.118
+  },
+  "hammer": {
+    "ends": 56,
+    "scoring_ends": 32,
+    "two_plus_ends": 13,
+    "blank_ends": 1,
+    "scoring_rate": 0.571,
+    "two_plus_rate": 0.232,
+    "blank_rate": 0.018,
+    "steals_allowed": 23
+  },
+  "no_hammer": {
+    "ends": 62,
+    "steals_for": 28,
+    "steal_rate": 0.452,
+    "force_exactly_one_ends": 18,
+    "force_rate": 0.29,
+    "defense_leq_one_ends": 48,
+    "defense_leq_one_rate": 0.774
+  }
+}
