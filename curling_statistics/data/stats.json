@@ -1,0 +1,38 @@
+{
+  "team": "Monday Fam",
+  "seasons": [
+    "2024-2025"
+  ],
+  "games_played": 20,
+  "record": {
+    "wins": 14,
+    "losses": 5,
+    "ties": 1
+  },
+  "points": {
+    "for": 134,
+    "against": 80,
+    "diff": 54,
+    "avg_for_per_game": 6.7,
+    "avg_against_per_game": 4.0
+  },
+  "hammer": {
+    "ends": 59,
+    "scoring_ends": 45,
+    "two_plus_ends": 22,
+    "blank_ends": 1,
+    "scoring_rate": 0.763,
+    "two_plus_rate": 0.373,
+    "blank_rate": 0.017,
+    "steals_allowed": 13
+  },
+  "no_hammer": {
+    "ends": 75,
+    "steals_for": 30,
+    "steal_rate": 0.4,
+    "force_exactly_one_ends": 26,
+    "force_rate": 0.347,
+    "defense_leq_one_ends": 61,
+    "defense_leq_one_rate": 0.813
+  }
+}
