@@ -1,9 +1,9 @@
 Season,Date,Team Name,Opponent,Location,Outcome (from dataset),Computed Result,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,Points For,Points Against,Hammer Ends,No-Hammer Ends,Steals For,Steals Against
-2024-2025,9/19/2024,Cashspiel Babes,Uneo,Granite Curling Club - MB,Loss,L,7,Red,Bonspiel,8,6,1,6,4,2,0,3
-2024-2025,9/21/2024,Cashspiel Babes,Strouse,Granite Curling Club - MB,Loss,L,3,Yellow,Bonspiel,8,8,3,4,5,3,1,2
-2024-2025,9/21/2024,Cashspiel Babes,McLeod,Granite Curling Club - MB,Loss,L,6,Yellow,Bonspiel,8,6,2,7,3,3,1,2
-2024-2025,9/21/2024,Cashspiel Babes,Kaatz,Granite Curling Club - MB,Loss,L,7,Yellow,Bonspiel,8,8,1,6,5,3,0,3
-2024-2025,10/18/2024,Cashspiel Babes,Cousins,St. Paul Curling Club,Loss,L,3,Yellow,Bonspiel,8,8,6,7,3,5,1,0
-2024-2025,10/18/2024,Cashspiel Babes,Shroeder,St. Paul Curling Club,Win,W,6,Yellow,Bonspiel,8,8,9,7,3,5,2,0
-2024-2025,10/18/2024,Cashspiel Babes,Workin,St. Paul Curling Club,Loss,L,1,Yellow,Bonspiel,8,6,2,6,4,2,0,3
-2024-2025,10/19/2024,Cashspiel Babes,McDonald,St. Paul Curling Club,Loss,L,8,Red,Bonspiel,8,8,5,7,4,4,2,3
+2024-2025,9/19/2024,Cashspiel Babes,Uneo,Granite Curling Club - MB,Loss,L,7,Red,Bonspiel,8,6.0,1,6,4,2,0,3
+2024-2025,9/21/2024,Cashspiel Babes,Strouse,Granite Curling Club - MB,Loss,L,3,Yellow,Bonspiel,8,8.0,3,4,5,3,1,2
+2024-2025,9/21/2024,Cashspiel Babes,McLeod,Granite Curling Club - MB,Loss,L,6,Yellow,Bonspiel,8,6.0,2,7,3,3,1,2
+2024-2025,9/21/2024,Cashspiel Babes,Kaatz,Granite Curling Club - MB,Loss,L,7,Yellow,Bonspiel,8,8.0,1,6,5,3,0,3
+2024-2025,10/18/2024,Cashspiel Babes,Cousins,St. Paul Curling Club,Loss,L,3,Yellow,Bonspiel,8,8.0,6,7,3,5,1,0
+2024-2025,10/18/2024,Cashspiel Babes,Shroeder,St. Paul Curling Club,Win,W,6,Yellow,Bonspiel,8,8.0,9,7,3,5,2,0
+2024-2025,10/18/2024,Cashspiel Babes,Workin,St. Paul Curling Club,Loss,L,1,Yellow,Bonspiel,8,6.0,2,6,4,2,0,3
+2024-2025,10/19/2024,Cashspiel Babes,McDonald,St. Paul Curling Club,Loss,L,8,Red,Bonspiel,8,8.0,5,7,4,4,2,3

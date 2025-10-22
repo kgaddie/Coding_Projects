@@ -1,220 +1,259 @@
 __Team__,Season,Date,Team Name,Opponent,Location,Outcome (from dataset),Computed Result,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,Points For,Points Against,Hammer Ends,No-Hammer Ends,Steals For,Steals Against
-Cashspiel Babes,2024-2025,9/19/2024,Cashspiel Babes,Uneo,Granite Curling Club - MB,Loss,L,7,Red,Bonspiel,8,6,1,6,4,2,0,3
-Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,Strouse,Granite Curling Club - MB,Loss,L,3,Yellow,Bonspiel,8,8,3,4,5,3,1,2
-Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,McLeod,Granite Curling Club - MB,Loss,L,6,Yellow,Bonspiel,8,6,2,7,3,3,1,2
-Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,Kaatz,Granite Curling Club - MB,Loss,L,7,Yellow,Bonspiel,8,8,1,6,5,3,0,3
-Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Cousins,St. Paul Curling Club,Loss,L,3,Yellow,Bonspiel,8,8,6,7,3,5,1,0
-Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Shroeder,St. Paul Curling Club,Win,W,6,Yellow,Bonspiel,8,8,9,7,3,5,2,0
-Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Workin,St. Paul Curling Club,Loss,L,1,Yellow,Bonspiel,8,6,2,6,4,2,0,3
-Cashspiel Babes,2024-2025,10/19/2024,Cashspiel Babes,McDonald,St. Paul Curling Club,Loss,L,8,Red,Bonspiel,8,8,5,7,4,4,2,3
-Knuckleheads,2023-2024,4/11/2024,Knuckleheads,Scieffer,Rock Creek Curling,Win,W,B,Green,Competitive League,8,8,8,5,5,3,1,2
-Knuckleheads,2023-2024,4/18/2024,Knuckleheads,Stavely,Rock Creek Curling,Loss,L,E,Yellow,Competitive League,8,7,3,8,5,2,0,3
-Knuckleheads,2023-2024,4/25/2024,Knuckleheads,Finlon,Rock Creek Curling,Win,W,E,Yellow,Competitive League,8,6,10,3,4,2,1,2
-Knuckleheads,2023-2024,5/2/2024,Knuckleheads,Simons,Rock Creek Curling,Win,W,C,Green,Competitive League,8,8,15,5,2,6,4,1
-Knuckleheads,2023-2024,5/9/2024,Knuckleheads,Wood,Rock Creek Curling,Win,W,B,Yellow,Competitive League,8,3,15,0,1,2,2,0
-Knuckleheads,2023-2024,5/16/2024,Knuckleheads,Stevinson,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7,9,4,1,6,5,0
-Knuckleheads,2023-2024,5/23/2024,Knuckleheads,Dunlop,Rock Creek Curling,Loss,L,B,Green,Competitive League,8,8,8,9,4,4,1,1
-Mixed Chaos,2023-2024,1/19/2024,Mixed Chaos,Sobering,Denver Curling Club,Loss,L,C,Red,Playdowns,8,6,2,9,3,3,0,1
-Mixed Chaos,2023-2024,1/19/2024,Mixed Chaos,Fountain,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,6,9,1,2,4,3,0
-Mixed Chaos,2023-2024,1/20/2024,Mixed Chaos,Falco,Denver Curling Club,Loss,L,D,Yellow,Playdowns,8,6,1,7,4,2,1,3
-Mixed Chaos,2023-2024,1/20/2024,Mixed Chaos,Spielman,Denver Curling Club,Loss,L,C,Yellow,Playdowns,8,6,2,11,5,1,0,4
-Mixed Chaos,2023-2024,1/21/2024,Mixed Chaos,Carle,Denver Curling Club,Loss,L,A,Red,Playdowns,8,7,2,6,5,2,0,3
-Mixed Chaos,2023-2024,1/21/2024,Mixed Chaos,Kizlyk,Denver Curling Club,Loss,L,D,Red,Playdowns,8,7,3,7,5,2,0,3
-Mixed Chaos,2023-2024,1/22/2024,Mixed Chaos,Johnston,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7,6,3,3,4,2,0
-Mixed Dreams,2023-2024,2/22/2024,Mixed Dreams,3rd Rock from the Pin,Denver Curling Club,Win,W,A,Red,Bonspiel,8,8,7,2,3,5,4,0
-Mixed Dreams,2023-2024,2/23/2024,Mixed Dreams,Moon Golfers,Denver Curling Club,Win,W,C,Red,Bonspiel,8,6,9,1,1,5,4,0
-Mixed Dreams,2023-2024,2/23/2024,Mixed Dreams,Stars Dusters,Denver Curling Club,Win,W,B,Red,Bonspiel,8,6,9,3,2,4,2,0
-Mixed Dreams,2023-2024,2/24/2024,Mixed Dreams,Space Ghosts,Denver Curling Club,Loss,L,D,Yellow,Bonspiel,8,8,6,7,6,2,0,3
-Monday Fam,2023-2024,5/20/2024,Monday Fam,Horsey,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,6,3,8,3,3,1,2
-Monday Fam,2023-2024,6/3/2024,Monday Fam,Walter,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8,13,3,2,6,4,0
-Monday Fam,2023-2024,6/10/2024,Monday Fam,McLaren,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,3,7,0,1,2,2,0
-Monday Fam,2023-2024,6/17/2024,Monday Fam,Lowell,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,7,4,8,4,3,0,2
-Monday Fam,2023-2024,6/24/2024,Monday Fam,Kizlyk,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6,14,2,2,4,3,0
-Monday Fam,2024-2025,10/7/2024,Monday Fam,Mason,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6,8,2,2,4,2,0
-Monday Fam,2024-2025,10/14/2024,Monday Fam,Lewis,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8,8,7,4,4,0,0
-Monday Fam,2024-2025,10/21/2024,Monday Fam,Clark,Denver Curling Club,Tie,T,B,Red,Social Leauge,8,7,5,5,3,4,2,1
-Monday Fam,2024-2025,10/28/2024,Monday Fam,White,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,4,7,0,1,3,3,0
-Monday Fam,2024-2025,11/4/2024,Monday Fam,Lee,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,8,5,8,5,3,1,3
-Monday Fam,2024-2025,11/11/2024,Monday Fam,Bailey,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,7,6,3,3,4,2,0
-Monday Fam,2024-2025,11/18/2024,Monday Fam,Wenzel,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,7,9,3,3,4,2,1
-Monday Fam,2024-2025,12/2/2024,Monday Fam,Weldon,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,4,2,8,2,2,1,1
-Monday Fam,2024-2025,12/9/2024,Monday Fam,Thomas,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8,7,4,3,5,2,0
-Monday Fam,2024-2025,12/16/2024,Monday Fam,Dunn,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6,9,1,2,4,3,0
-Monday Fam,2024-2025,1/6/2025,Monday Fam,Hobbs,Denver Curling Club,Loss,L,C,Red,Social Leauge,8,6,1,7,5,1,0,4
-Monday Fam,2024-2025,1/13/2025,Monday Fam,Henney,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,7,9,1,2,5,3,0
-Monday Fam,2024-2025,1/27/2025,Monday Fam,Maule,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,7,4,8,4,3,1,3
-Monday Fam,2024-2025,2/3/2025,Monday Fam,Rolison,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,7,4,2,3,4,1,0
-Monday Fam,2024-2025,2/17/2025,Monday Fam,Wellen,Denver Curling Club,Win,W,D,Red,Social Leauge,8,7,7,2,3,4,1,0
-Monday Fam,2024-2025,2/24/2025,Monday Fam,Lewis,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7,10,6,4,3,0,0
-Monday Fam,2024-2025,3/3/2025,Monday Fam,Mason,Denver Curling Club,Win,W,A,Red,Social Leauge,8,6,10,3,3,3,0,0
-Monday Fam,2024-2025,3/10/2025,Monday Fam,Wenzel,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,7,8,3,3,4,1,0
-Monday Fam,2024-2025,3/17/2025,Monday Fam,Clark,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6,9,0,1,5,3,0
-Monday Fam,2024-2025,3/31/2025,Monday Fam,Weldon,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,9,6,7,3,6,2,0
-Monday_Hijinks,2023-2024,3/25/2023,Monday_Hijinks,Sleeper,Denver Curling Club,Win,L,C,Yellow,Social Leauge,8,8,4,7,2,5,3,2
-Monday_Hijinks,2023-2024,4/1/2023,Monday_Hijinks,Wilson,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8,9,6,4,4,1,0
-Monday_Hijinks,2023-2024,10/2/2023,Monday_Hijinks,Rain,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,8,5,6,5,3,0,2
-Monday_Hijinks,2023-2024,10/9/2023,Monday_Hijinks,White,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6,12,3,4,2,0,0
-Monday_Hijinks,2023-2024,10/16/2023,Monday_Hijinks,Maule,Denver Curling Club,Win,W,A,Red,Social Leauge,8,6,5,1,3,3,2,0
-Monday_Hijinks,2023-2024,10/23/2023,Monday_Hijinks,Mason,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7,6,3,3,4,3,2
-Monday_Hijinks,2023-2024,10/30/2023,Monday_Hijinks,Thomas,Denver Curling Club,Win,W,D,Red,Social Leauge,8,7,14,4,2,5,5,1
-Monday_Hijinks,2023-2024,11/6/2023,Monday_Hijinks,Riley,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6,10,1,2,4,3,0
-Monday_Hijinks,2023-2024,11/13/2023,Monday_Hijinks,Wellen,Denver Curling Club,Win,W,B,Red,Social Leauge,8,7,5,2,2,4,3,1
-Monday_Hijinks,2023-2024,11/27/2023,Monday_Hijinks,Maule,Denver Curling Club,Win,W,C,Red,Social Leauge,8,6,9,3,2,4,2,0
-Monday_Hijinks,2023-2024,12/4/2023,Monday_Hijinks,White,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6,8,2,2,4,3,1
-Monday_Hijinks,2023-2024,12/11/2023,Monday_Hijinks,Wilson,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6,10,3,3,3,1,1
-Monday_Hijinks,2023-2024,12/18/2023,Monday_Hijinks,Schrieber,Denver Curling Club,Win,W,B,Yellow,Social Leauge,8,8,19,0,1,7,7,0
-Monday_Hijinks,2023-2024,1/8/2024,Monday_Hijinks,Sleeper,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6,13,1,2,4,3,0
-Monday_Hijinks,2023-2024,1/15/2024,Monday_Hijinks,Brandshaw,Denver Curling Club,Win,W,A,Red,Social Leauge,8,7,8,5,4,3,0,1
-Monday_Hijinks,2023-2024,1/22/2024,Monday_Hijinks,Lee,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,8,7,8,3,5,2,0
-Monday_Hijinks,2023-2024,1/29/2024,Monday_Hijinks,Doherty,Denver Curling Club,Tie,T,C,Yellow,Social Leauge,8,8,5,5,4,4,1,1
-Monday_Hijinks,2023-2024,2/5/2024,Monday_Hijinks,Rein,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6,8,1,2,4,2,0
-Monday_Hijinks,2023-2024,2/12/2024,Monday_Hijinks,Dunn,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,6,14,2,3,3,2,1
-Monday_Hijinks,2023-2024,2/19/2024,Monday_Hijinks,Cunningham,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6,7,5,3,3,1,1
-Monday_Hijinks,2023-2024,3/18/2024,Monday_Hijinks,Dunn,Denver Curling Club,Loss,L,D,Red,Social Leauge,8,7,2,8,5,2,1,4
-Monsters,2023-2024,1/12/2024,Monsters,Witschen,Wausau Curling Club,Win,W,8,Yellow,Bonspiel,8,6,8,2,2,4,2,0
-Monsters,2023-2024,1/13/2024,Monsters,White Heathers,Wausau Curling Club,Win,W,4,Yellow,Bonspiel,8,7,10,6,5,2,0,2
-Monsters,2023-2024,1/13/2024,Monsters,Sandquist,Wausau Curling Club,Win,W,6,Red,Bonspiel,8,6,7,2,3,3,3,2
-Monsters,2023-2024,1/14/2024,Monsters,O'Connell,Wausau Curling Club,Loss,W,8,Red,Bonspiel,8,8,4,3,4,4,2,2
-Raccoons,2023-2024,10/27/2023,Raccoons,Thanks for the Memeories,Madison Curling Club,Win,W,4,Yellow,Bonspiel,8,8,15,3,3,5,2,0
-Raccoons,2023-2024,10/28/2023,Raccoons,D. Nelson,Madison Curling Club,Win,W,2,Yellow,Bonspiel,8,8,8,6,3,5,1,0
-Raccoons,2023-2024,10/28/2023,Raccoons,Ramm,Madison Curling Club,Win,W,6,Yellow,Bonspiel,8,6,7,2,2,4,3,1
-Raccoons,2023-2024,10/28/2023,Raccoons,Dietz,Madison Curling Club,Loss,L,1,Yellow,Bonspiel,8,6,0,6,6,0,0,5
-Raccoons,2023-2024,12/1/2023,Raccoons,Segovia,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7,9,7,3,4,2,2
-Raccoons,2023-2024,12/2/2023,Raccoons,Walsh,Denver Curling Club,Win,W,B,Red,Playdowns,8,7,9,4,4,3,2,1
-Raccoons,2023-2024,12/2/2023,Raccoons,Stavely,Denver Curling Club,Win,T,D,Yellow,Playdowns,8,8,5,5,4,4,1,0
-Raccoons,2023-2024,12/3/2023,Raccoons,Smith,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,7,5,1,1,6,3,0
-Raccoons,2023-2024,12/3/2023,Raccoons,Henning,Denver Curling Club,Loss,L,D,Red,Playdowns,8,9,6,7,5,4,1,2
-Raccoons,2023-2024,12/4/2023,Raccoons,Wood,Denver Curling Club,Win,W,C,Red,Playdowns,8,9,8,7,6,3,0,2
-Raccoons,2023-2024,4/3/2024,Raccoons,McGregor,Fargo Moorhead Curling Club,Win,W,A,Red,Playdowns,8,7,7,5,2,5,1,0
-Raccoons,2023-2024,4/4/2024,Raccoons,Politano,Fargo Moorhead Curling Club,Win,W,E,Red,Playdowns,8,8,6,5,3,5,2,0
-Raccoons,2023-2024,4/4/2024,Raccoons,Mason,Fargo Moorhead Curling Club,Win,W,A,Yellow,Playdowns,8,7,8,4,4,3,1,1
-Raccoons,2023-2024,4/5/2024,Raccoons,Aubrey,Fargo Moorhead Curling Club,Loss,L,F,Yellow,Playdowns,8,8,2,7,6,2,0,4
-Raccoons,2023-2024,4/5/2024,Raccoons,Lagasse,Fargo Moorhead Curling Club,Loss,W,B,Yellow,Playdowns,8,9,5,3,5,4,2,2
-Rocky Mtn Lobstaaas,2024-2025,11/8/2024,Rocky Mtn Lobstaaas,Dr Allans,Belfast Curling Club,Win,W,3,Yellow,Bonspiel,8,6,8,3,2,4,3,2
-Rocky Mtn Lobstaaas,2024-2025,11/8/2024,Rocky Mtn Lobstaaas,"Curl, Drink, Repeat",Belfast Curling Club,Win,W,1,Red,Bonspiel,8,4,11,0,1,3,3,0
-Rocky Mtn Lobstaaas,2024-2025,11/9/2024,Rocky Mtn Lobstaaas,Hit & Loberst Roll,Belfast Curling Club,Win,W,3,Yellow,Bonspiel,8,7,6,5,2,5,3,0
-Rocky Mtn Lobstaaas,2024-2025,11/10/2024,Rocky Mtn Lobstaaas,Irieites,Belfast Curling Club,Win,W,2,Red,Bonspiel,8,7,5,3,1,6,3,0
-Subbing,2023-2024,9/14/2023,Subbing,Feldman,Denver Curling Club,Win,W,A,Yellow,Bonspiel,8,8,8,6,4,4,1,0
-Subbing,2023-2024,9/15/2023,Subbing,Neill,Denver Curling Club,Loss,L,B,Red,Bonspiel,8,7,4,6,4,3,1,1
-Subbing,2023-2024,9/22/2023,Subbing,Craftwerk,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7,7,3,3,4,3,1
-Subbing,2023-2024,9/23/2023,Subbing,Braustolz,Denver Curling Club,Loss,L,B,Red,Bonspiel,8,7,5,7,5,2,1,3
-Subbing,2023-2024,9/23/2023,Subbing,Watzdorfer,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7,11,1,2,5,4,0
-Subbing,2023-2024,9/24/2023,Subbing,Holzlandbrau,Denver Curling Club,Loss,L,C,Yellow,Bonspiel,8,6,2,5,4,2,0,2
-Subbing,2023-2024,9/29/2023,Subbing,FAC,Denver Curling Club,Win,W,B,Yellow,Social Leauge,8,7,8,2,2,5,3,0
-Subbing,2023-2024,10/4/2023,Subbing,Weds Night,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8,7,6,4,4,2,2
-Subbing,2023-2024,10/10/2023,Subbing,Tues Comp,Denver Curling Club,Loss,L,D,Yellow,Competitive League,8,7,3,7,4,3,1,2
-Subbing,2023-2024,10/20/2023,Subbing,FAC,Denver Curling Club,Loss,L,C,Red,Social Leauge,8,7,5,8,4,3,0,2
-Subbing,2023-2024,10/23/2023,Subbing,Scrimmage,Denver Curling Club,Loss,L,D,Yellow,Social Leauge,8,6,3,8,4,2,0,2
-Subbing,2023-2024,10/24/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,D,Yellow,Competitive League,8,6,8,1,2,4,3,0
-Subbing,2023-2024,11/7/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,C,Red,Competitive League,8,7,8,6,2,5,2,0
-Subbing,2023-2024,11/10/2023,Subbing,FAC,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8,6,4,3,5,3,1
-Subbing,2023-2024,11/11/2023,Subbing,Mixed Doubles,Rock Creek Curling,Win,W,F,Yellow,Social Leauge,8,8,13,9,4,4,0,0
-Subbing,2023-2024,11/17/2023,Subbing,Buy Me a Margarita,Coyotes Curling Club,Win,W,B,Red,Bonspiel,8,8,7,4,4,4,1,0
-Subbing,2023-2024,11/18/2023,Subbing,Fiesta Friends,Coyotes Curling Club,Win,W,D,Red,Bonspiel,8,6,16,1,2,4,3,0
-Subbing,2023-2024,11/18/2023,Subbing,Un Borracho,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,6,9,4,3,3,1,0
-Subbing,2023-2024,11/19/2023,Subbing,Rockin Around,Coyotes Curling Club,Win,W,D,Red,Bonspiel,8,6,7,3,1,5,3,0
-Subbing,2023-2024,11/19/2023,Subbing,Waiting to Get Cut,Coyotes Curling Club,Win,T,C,Red,Bonspiel,8,9,7,7,6,3,0,2
-Subbing,2023-2024,12/5/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,D,Red,Competitive League,8,8,7,6,3,5,2,1
-Subbing,2023-2024,12/12/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,A,Red,Competitive League,8,8,6,5,5,3,1,2
-Subbing,2023-2024,1/2/2024,Subbing,Tues Comp,Denver Curling Club,Loss,L,D,Red,Competitive League,8,6,3,13,4,2,0,3
-Subbing,2023-2024,1/16/2024,Subbing,Tues Comp,Denver Curling Club,Loss,L,A,Yellow,Competitive League,8,8,4,6,3,5,1,0
-Subbing,2023-2024,1/30/2024,Subbing,Tues Comp,Denver Curling Club,Win,W,C,Red,Competitive League,8,8,8,3,5,3,2,2
-Subbing,2023-2024,2/16/2024,Subbing,FAC,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,6,6,8,3,4,0,0
-Subbing,2023-2024,2/29/2024,Subbing,Thurs Comp,Rock Creek Curling,Win,W,F,Green,Competitive League,8,7,6,3,2,5,2,0
-Subbing,2023-2024,3/15/2024,Subbing,Pixie Chicks,Coyotes Curling Club,Loss,L,C,Red,Bonspiel,8,7,4,5,4,3,1,1
-Subbing,2023-2024,3/15/2024,Subbing,If Ida,Coyotes Curling Club,Win,L,D,Red,Bonspiel,8,7,5,7,3,4,0,0
-Subbing,2023-2024,3/15/2024,Subbing,Spiel Sub,Coyotes Curling Club,Loss,T,D,Yellow,Bonspiel,8,7,4,4,2,5,3,1
-Subbing,2023-2024,3/16/2024,Subbing,Walsh,Coyotes Curling Club,Loss,L,A,Yellow,Bonspiel,8,7,6,7,3,4,2,1
-Subbing,2023-2024,4/8/2024,Subbing,Mon League,Rock Creek Curling,Win,W,E,Yellow,Social Leauge,8,7,9,4,3,4,2,0
-Subbing,2023-2024,4/15/2024,Subbing,Rein,Denver Curling Club,Win,W,D,Red,Social Leauge,8,8,9,2,2,6,4,0
-Subbing,2023-2024,4/20/2024,Subbing,Curling Capes,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,7,12,4,4,3,1,1
-Subbing,2023-2024,4/20/2024,Subbing,Warren,Denver Curling Club,Win,W,A,Yellow,Bonspiel,8,7,12,5,3,4,3,1
-Subbing,2023-2024,4/20/2024,Subbing,Infinity Stones,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,9,7,6,5,4,2,2
-Subbing,2023-2024,4/21/2024,Subbing,Bradshaw,Denver Curling Club,Loss,L,B,Yellow,Bonspiel,8,6,5,10,2,4,2,1
-Subbing,2023-2024,4/22/2024,Subbing,Ernstberger,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8,10,2,2,6,4,0
-Subbing,2023-2024,4/29/2024,Subbing,Copp,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,8,4,7,4,4,2,3
-Subbing,2023-2024,5/6/2024,Subbing,Lane,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6,13,1,1,5,4,0
-Subbing,2023-2024,5/13/2024,Subbing,Hannan,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8,12,6,4,4,1,1
-Subbing,2023-2024,6/21/2024,Subbing,Sobering,Denver Curling Club,Loss,L,B,Yellow,Bonspiel,8,8,6,7,3,5,2,1
-Subbing,2023-2024,6/22/2024,Subbing,Stay Salty,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7,8,3,1,6,4,0
-Subbing,2023-2024,6/22/2024,Subbing,Pomaika'i,Denver Curling Club,Win,W,C,Yellow,Bonspiel,8,8,9,8,3,5,3,1
-Subbing,2023-2024,6/22/2024,Subbing,Parts Unknown CC,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7,8,5,2,5,2,0
-Subbing,2023-2024,6/23/2024,Subbing,Yeah Buddy!!,Denver Curling Club,Win,W,A,Red,Bonspiel,8,7,6,4,3,4,2,1
-Subbing,2023-2024,6/23/2024,Subbing,Peel-a-colada,Denver Curling Club,Win,W,C,Yellow,Bonspiel,8,6,7,1,1,5,3,0
-Subbing,2024-2025,7/5/2024,Subbing,TWSS,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,3,7,0,1,2,1,0
-Subbing,2024-2025,7/6/2024,Subbing,Cat Daddy,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,9,9,8,3,6,3,0
-Subbing,2024-2025,7/6/2024,Subbing,We Don’t Need No Stinking Hammer,Coyotes Curling Club,Win,W,B,Yellow,Bonspiel,8,9,6,5,4,5,2,1
-Subbing,2024-2025,7/7/2024,Subbing,High Risk-Low Reward,Coyotes Curling Club,Loss,L,C,Yellow,Bonspiel,8,8,8,11,4,4,1,2
-Subbing,2024-2025,10/11/2024,Subbing,FAC,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7,7,5,2,5,3,0
-Subbing,2024-2025,11/22/2024,Subbing,FAC,Denver Curling Club,Win,W,B,Red,Social Leauge,8,8,10,3,2,6,3,0
-Subbing,2024-2025,12/11/2024,Subbing,Scrimmage,Rock Creek Curling,Win,W,D,Green,Social Leauge,8,6,8,3,3,3,1,1
-Subbing,2024-2025,12/12/2024,Subbing,Thurs Day,Denver Curling Club,Win,W,B,Red,Social Leauge,8,8,16,1,2,6,5,0
-Subbing,2024-2025,1/9/2025,Subbing,Thurs Day,Denver Curling Club,Loss,L,B,Yellow,Social Leauge,8,7,5,9,3,4,1,1
-Subbing,2024-2025,1/10/2025,Subbing,FAC,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,8,6,7,4,4,3,4
-Subbing,2024-2025,1/10/2025,Subbing,FAC,Denver Curling Club,Loss,L,C,Yellow,Social Leauge,8,8,7,9,5,3,0,2
-Subbing,2024-2025,1/23/2025,Subbing,Thurs Day,Denver Curling Club,Loss,L,C,Yellow,Social Leauge,8,7,2,11,5,2,0,4
-Subbing,2024-2025,1/24/2025,Subbing,Wilson,Rock Creek Curling,Win,W,D,Green,Bonspiel,8,8,8,4,4,4,1,0
-Subbing,2024-2025,1/25/2025,Subbing,Connell,Rock Creek Curling,Win,W,A,Yellow,Bonspiel,8,6,7,4,3,3,2,2
-Subbing,2024-2025,1/25/2025,Subbing,Stavely,Rock Creek Curling,Loss,L,F,Yellow,Bonspiel,8,7,5,7,4,3,1,2
-Subbing,2024-2025,1/26/2025,Subbing,Cotter,Rock Creek Curling,Win,W,E,Green,Bonspiel,8,6,12,2,1,5,3,0
-Subbing,2024-2025,1/26/2025,Subbing,Lewis,Rock Creek Curling,Win,W,C,Green,Bonspiel,8,8,12,5,4,4,3,3
-Thursday Women,2024-2025,1/16/2025,Thursday Women,Hawlucha,Rock Creek Curling,Win,W,B,Green,Competitive League,8,7,6,4,5,2,0,2
-Thursday Women,2024-2025,1/23/2025,Thursday Women,Gourgeist,Rock Creek Curling,Win,W,D,Green,Competitive League,8,7,5,2,3,4,3,1
-Thursday Women,2024-2025,1/30/2025,Thursday Women,Drampa,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6,11,2,2,4,2,0
-Thursday Women,2024-2025,2/6/2025,Thursday Women,Crabominable,Rock Creek Curling,Win,W,D,Green,Competitive League,8,7,5,3,3,4,1,0
-Thursday Women,2024-2025,2/13/2025,Thursday Women,Flapple,Rock Creek Curling,Loss,L,F,Green,Competitive League,8,7,3,9,5,2,0,3
-Thursday Women,2024-2025,3/13/2025,Thursday Women,Aromatisse,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,4,5,1,2,2,1,0
-Thursday Women,2024-2025,3/20/2025,Thursday Women,Pyukumuku,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7,10,6,4,3,1,2
-Thursday_Rookies,2023-2024,10/5/2023,Thursday_Rookies,Andrews,Rock Creek Curling,Loss,L,E,Green,Competitive League,8,8,6,8,2,6,4,1
-Thursday_Rookies,2023-2024,10/12/2023,Thursday_Rookies,Carle,Rock Creek Curling,Win,W,B,Green,Competitive League,8,6,7,1,0,6,5,0
-Thursday_Rookies,2023-2024,10/19/2023,Thursday_Rookies,Wood,Rock Creek Curling,Loss,L,D,Green,Competitive League,8,8,5,6,3,5,2,1
-Thursday_Rookies,2023-2024,10/26/2023,Thursday_Rookies,Stavely,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,8,8,6,4,4,1,0
-Thursday_Rookies,2023-2024,11/2/2023,Thursday_Rookies,Marlow,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,7,10,3,3,4,2,1
-Thursday_Rookies,2023-2024,11/9/2023,Thursday_Rookies,Mansell,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,4,0,11,4,0,0,4
-Thursday_Rookies,2023-2024,11/16/2023,Thursday_Rookies,Henning,Rock Creek Curling,Loss,L,E,Green,Competitive League,8,9,9,10,5,4,1,2
-Thursday_Rookies,2023-2024,11/30/2023,Thursday_Rookies,Sobering,Rock Creek Curling,Win,W,E,Green,Competitive League,8,8,5,3,2,6,3,1
-Thursday_Rookies,2023-2024,1/4/2024,Thursday_Rookies,Carle,Rock Creek Curling,Loss,L,B,Yellow,Competitive League,8,8,7,10,3,5,1,1
-Thursday_Rookies,2023-2024,1/18/2024,Thursday_Rookies,Schiestel,Rock Creek Curling,Loss,L,F,Yellow,Competitive League,8,6,4,8,4,2,0,1
-Thursday_Rookies,2023-2024,1/25/2024,Thursday_Rookies,Weldon,Rock Creek Curling,Loss,L,C,Green,Competitive League,8,6,4,8,1,5,3,0
-Thursday_Rookies,2023-2024,2/1/2024,Thursday_Rookies,Spielman,Rock Creek Curling,Loss,L,F,Green,Competitive League,8,6,2,8,4,2,0,2
-Thursday_Rookies,2023-2024,2/8/2024,Thursday_Rookies,Roselle,Rock Creek Curling,Win,W,C,Yellow,Competitive League,8,6,12,4,2,4,2,0
-Thursday_Rookies,2023-2024,2/22/2024,Thursday_Rookies,Andrews,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,8,8,2,3,5,3,1
-Thursday_Rookies,2023-2024,2/25/2024,Thursday_Rookies,Smith,Rock Creek Curling,Win,W,E,Green,Competitive League,8,6,9,0,0,6,6,0
-Thursday_Rookies,2023-2024,2/29/2024,Thursday_Rookies,Biesecker,Rock Creek Curling,Win,W,D,Green,Competitive League,8,8,10,4,3,5,4,2
-Thursday_Rookies,2023-2024,3/14/2024,Thursday_Rookies,Brekke,Rock Creek Curling,Loss,L,B,Yellow,Competitive League,8,7,4,5,3,4,2,1
-Thursday_Sobering,2024-2025,10/3/2024,Thursday_Sobering,Blue Moons,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,8,6,7,3,5,2,0
-Thursday_Sobering,2024-2025,10/10/2024,Thursday_Sobering,Electric Ice,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7,8,4,3,4,2,1
-Thursday_Sobering,2024-2025,10/24/2024,Thursday_Sobering,Frostbite Fliers,Rock Creek Curling,Loss,L,A,Green,Competitive League,8,7,4,9,4,3,1,2
-Thursday_Sobering,2024-2025,10/31/2024,Thursday_Sobering,Azure Waves,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6,13,3,1,5,4,0
-Thursday_Sobering,2024-2025,11/7/2024,Thursday_Sobering,Glacier Guardians,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,6,11,5,2,4,1,0
-Tuesday_Sobering,2024-2025,10/8/2024,Tuesday_Sobering,Danahey,Denver Curling Club,Loss,L,B,Red,Competitive League,8,8,5,9,4,4,0,1
-Tuesday_Sobering,2024-2025,10/22/2024,Tuesday_Sobering,Dudt,Denver Curling Club,Loss,T,A,Red,Competitive League,8,9,7,7,3,6,3,1
-Tuesday_Sobering,2024-2025,10/29/2024,Tuesday_Sobering,Wolfe,Denver Curling Club,Win,W,C,Yellow,Competitive League,8,7,11,2,2,5,2,0
-Tuesday_Sobering,2024-2025,11/5/2024,Tuesday_Sobering,Wishart,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,7,6,3,4,3,1,1
-Tuesday_Sobering,2024-2025,11/19/2024,Tuesday_Sobering,Moir,Denver Curling Club,Loss,L,A,Yellow,Competitive League,8,7,4,5,4,3,0,1
-Tuesday_Sobering,2024-2025,12/10/2024,Tuesday_Sobering,Moir,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,7,10,3,1,6,5,0
-Tuesday_Sobering,2024-2025,12/17/2024,Tuesday_Sobering,Bata,Denver Curling Club,Loss,L,C,Red,Competitive League,8,7,4,7,5,2,0,4
-Tuesday_Sobering,2024-2025,1/7/2025,Tuesday_Sobering,Wishart,Denver Curling Club,Win,W,C,Yellow,Competitive League,8,7,10,5,3,4,2,1
-Tuesday_Sobering,2024-2025,1/14/2025,Tuesday_Sobering,Culbertson,Denver Curling Club,Win,T,B,Yellow,Competitive League,8,8,6,6,4,4,2,2
-Tuesday_Sobering,2024-2025,1/21/2025,Tuesday_Sobering,Wolfe,Denver Curling Club,Win,W,D,Yellow,Competitive League,8,6,10,1,1,5,4,0
-Tuesday_Sobering,2024-2025,1/28/2025,Tuesday_Sobering,Kizlyk,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,8,6,4,5,3,1,1
-Tuesday_Sobering,2024-2025,2/11/2025,Tuesday_Sobering,Rose,Denver Curling Club,Win,W,A,Red,Competitive League,8,7,9,7,3,4,2,2
-Tuesday_Sobering,2024-2025,2/18/2025,Tuesday_Sobering,Sobering,Denver Curling Club,Loss,L,B,Red,Competitive League,8,6,2,6,4,2,0,2
-Tuesday_Sobering,2024-2025,3/4/2025,Tuesday_Sobering,Suhr,Denver Curling Club,Loss,L,C,Yellow,Competitive League,8,7,3,5,4,3,1,1
-Tuesday_Sobering,2024-2025,3/11/2025,Tuesday_Sobering,Falco,Denver Curling Club,Loss,L,D,Yellow,Competitive League,8,4,3,9,3,1,0,2
-Tuesday_Sobering,2024-2025,3/18/2025,Tuesday_Sobering,Mansell,Denver Curling Club,Loss,L,B,Yellow,Competitive League,8,6,1,7,5,1,0,4
-Tuesday_Sobering,2024-2025,4/1/2025,Tuesday_Sobering,Rose,Denver Curling Club,Win,W,C,Red,Competitive League,8,7,7,1,1,6,5,0
-Womens Mix,2024-2025,11/15/2024,Womens Mix,Soup with Rice,Coyotes Curling Club,Loss,L,B,Yellow,Bonspiel,8,7,3,9,3,4,2,2
-Womens Mix,2024-2025,11/16/2024,Womens Mix,Pour Decisions,Coyotes Curling Club,Loss,L,B,Red,Bonspiel,8,7,5,9,5,2,0,3
-Womens Mix,2024-2025,11/16/2024,Womens Mix,Team Reid,Coyotes Curling Club,Win,W,B,Yellow,Bonspiel,8,6,12,4,3,3,1,0
-Womens Mix,2024-2025,11/17/2024,Womens Mix,"Fiesta, Siesta, Tequila, Repeat",Coyotes Curling Club,Loss,L,B,Yellow,Bonspiel,8,9,5,6,4,5,2,2
-Womens Mix,2024-2025,12/5/2024,Womens Mix,Marcantano,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,6,10,1,2,4,3,0
-Womens Mix,2024-2025,12/7/2024,Womens Mix,Bucci,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,9,7,6,4,5,1,1
-Womens Mix,2024-2025,12/7/2024,Womens Mix,Mechenbrier,Denver Curling Club,Loss,L,D,Yellow,Bonspiel,8,6,5,9,4,2,0,1
-Womens Mix,2024-2025,12/13/2024,Womens Mix,Smith,Rock Creek Curling,Win,W,F,Green,Playdowns,8,8,6,4,4,4,1,1
-Womens Mix,2024-2025,12/13/2024,Womens Mix,Bradshaw,Rock Creek Curling,Win,W,D,Green,Playdowns,8,6,11,4,4,2,0,1
-Womens Mix,2024-2025,12/14/2024,Womens Mix,Stavely,Rock Creek Curling,Win,W,B,Green,Playdowns,8,6,6,2,2,4,2,0
-Womens Mix,2024-2025,12/14/2024,Womens Mix,Henning,Rock Creek Curling,Win,W,E,Yellow,Playdowns,8,8,9,5,5,3,1,1
-Womens Mix,2024-2025,12/14/2024,Womens Mix,Segovia,Rock Creek Curling,Win,W,C,Yellow,Playdowns,8,7,7,3,3,4,2,1
-Womens Mix,2024-2025,12/15/2024,Womens Mix,Segovia,Rock Creek Curling,Loss,L,D,Green,Playdowns,8,7,1,4,2,5,0,1
-Womens Mix,2024-2025,12/15/2024,Womens Mix,Segovia,Rock Creek Curling,Loss,L,C,Green,Playdowns,8,8,8,9,4,4,1,1
+Cashspiel Babes,2024-2025,9/19/2024,Cashspiel Babes,Uneo,Granite Curling Club - MB,Loss,L,7,Red,Bonspiel,8,6.0,1,6,4,2,0,3
+Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,Strouse,Granite Curling Club - MB,Loss,L,3,Yellow,Bonspiel,8,8.0,3,4,5,3,1,2
+Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,McLeod,Granite Curling Club - MB,Loss,L,6,Yellow,Bonspiel,8,6.0,2,7,3,3,1,2
+Cashspiel Babes,2024-2025,9/21/2024,Cashspiel Babes,Kaatz,Granite Curling Club - MB,Loss,L,7,Yellow,Bonspiel,8,8.0,1,6,5,3,0,3
+Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Cousins,St. Paul Curling Club,Loss,L,3,Yellow,Bonspiel,8,8.0,6,7,3,5,1,0
+Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Shroeder,St. Paul Curling Club,Win,W,6,Yellow,Bonspiel,8,8.0,9,7,3,5,2,0
+Cashspiel Babes,2024-2025,10/18/2024,Cashspiel Babes,Workin,St. Paul Curling Club,Loss,L,1,Yellow,Bonspiel,8,6.0,2,6,4,2,0,3
+Cashspiel Babes,2024-2025,10/19/2024,Cashspiel Babes,McDonald,St. Paul Curling Club,Loss,L,8,Red,Bonspiel,8,8.0,5,7,4,4,2,3
+Knuckleheads,2023-2024,4/11/2024,Knuckleheads,Scieffer,Rock Creek Curling,Win,W,B,Green,Competitive League,8,8.0,8,5,5,3,1,2
+Knuckleheads,2023-2024,4/18/2024,Knuckleheads,Stavely,Rock Creek Curling,Loss,L,E,Yellow,Competitive League,8,7.0,3,8,5,2,0,3
+Knuckleheads,2023-2024,4/25/2024,Knuckleheads,Finlon,Rock Creek Curling,Win,W,E,Yellow,Competitive League,8,6.0,10,3,4,2,1,2
+Knuckleheads,2023-2024,5/2/2024,Knuckleheads,Simons,Rock Creek Curling,Win,W,C,Green,Competitive League,8,8.0,15,5,2,6,4,1
+Knuckleheads,2023-2024,5/9/2024,Knuckleheads,Wood,Rock Creek Curling,Win,W,B,Yellow,Competitive League,8,3.0,15,0,1,2,2,0
+Knuckleheads,2023-2024,5/16/2024,Knuckleheads,Stevinson,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7.0,9,4,1,6,5,0
+Knuckleheads,2023-2024,5/23/2024,Knuckleheads,Dunlop,Rock Creek Curling,Loss,L,B,Green,Competitive League,8,8.0,8,9,4,4,1,1
+Knuckleheads,2025-2026,10/2/2025,Knuckleheads,Animas,Rock Creek Curling,Loss,L,E,Green,Competitive League,8,6.0,5,14,4,2,0,2
+Knuckleheads,2025-2026,10/9/2025,Knuckleheads,Fryingpan,Rock Creek Curling,Loss,L,F,Green,Competitive League,8,6.0,3,8,4,2,0,3
+Knuckleheads,2025-2026,10/16/2025,Knuckleheads,Gunnison,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6.0,9,2,2,4,2,0
+Knuckleheads,2025-2026,10/23/2025,Knuckleheads,Huerfano,Rock Creek Curling,,T,,,Competitive League,8,,0,0,0,0,0,0
+Knuckleheads,2025-2026,10/30/2025,Knuckleheads,Dolores,Rock Creek Curling,,T,,,Competitive League,8,,0,0,0,0,0,0
+Knuckleheads,2025-2026,11/6/2025,Knuckleheads,Eagle,Rock Creek Curling,,T,,,Competitive League,8,,0,0,0,0,0,0
+Knuckleheads,2025-2026,11/13/2025,Knuckleheads,Bear,Rock Creek Curling,,T,,,Competitive League,8,,0,0,0,0,0,0
+Knuckleheads,2025-2026,11/20/2025,Knuckleheads,Playoffs,Rock Creek Curling,,T,,,Competitive League,8,,0,0,0,0,0,0
+Mixed Chaos,2023-2024,1/19/2024,Mixed Chaos,Sobering,Denver Curling Club,Loss,L,C,Red,Playdowns,8,6.0,2,9,3,3,0,1
+Mixed Chaos,2023-2024,1/19/2024,Mixed Chaos,Fountain,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,6.0,9,1,2,4,3,0
+Mixed Chaos,2023-2024,1/20/2024,Mixed Chaos,Falco,Denver Curling Club,Loss,L,D,Yellow,Playdowns,8,6.0,1,7,4,2,1,3
+Mixed Chaos,2023-2024,1/20/2024,Mixed Chaos,Spielman,Denver Curling Club,Loss,L,C,Yellow,Playdowns,8,6.0,2,11,5,1,0,4
+Mixed Chaos,2023-2024,1/21/2024,Mixed Chaos,Carle,Denver Curling Club,Loss,L,A,Red,Playdowns,8,7.0,2,6,5,2,0,3
+Mixed Chaos,2023-2024,1/21/2024,Mixed Chaos,Kizlyk,Denver Curling Club,Loss,L,D,Red,Playdowns,8,7.0,3,7,5,2,0,3
+Mixed Chaos,2023-2024,1/22/2024,Mixed Chaos,Johnston,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7.0,6,3,3,4,2,0
+Mixed Dreams,2023-2024,2/22/2024,Mixed Dreams,3rd Rock from the Pin,Denver Curling Club,Win,W,A,Red,Bonspiel,8,8.0,7,2,3,5,4,0
+Mixed Dreams,2023-2024,2/23/2024,Mixed Dreams,Moon Golfers,Denver Curling Club,Win,W,C,Red,Bonspiel,8,6.0,9,1,1,5,4,0
+Mixed Dreams,2023-2024,2/23/2024,Mixed Dreams,Stars Dusters,Denver Curling Club,Win,W,B,Red,Bonspiel,8,6.0,9,3,2,4,2,0
+Mixed Dreams,2023-2024,2/24/2024,Mixed Dreams,Space Ghosts,Denver Curling Club,Loss,L,D,Yellow,Bonspiel,8,8.0,6,7,6,2,0,3
+Monday Fam,2023-2024,5/20/2024,Monday Fam,Horsey,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,6.0,3,8,3,3,1,2
+Monday Fam,2023-2024,6/3/2024,Monday Fam,Walter,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8.0,13,3,2,6,4,0
+Monday Fam,2023-2024,6/10/2024,Monday Fam,McLaren,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,3.0,7,0,1,2,2,0
+Monday Fam,2023-2024,6/17/2024,Monday Fam,Lowell,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,7.0,4,8,4,3,0,2
+Monday Fam,2023-2024,6/24/2024,Monday Fam,Kizlyk,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6.0,14,2,2,4,3,0
+Monday Fam,2024-2025,10/7/2024,Monday Fam,Mason,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6.0,8,2,2,4,2,0
+Monday Fam,2024-2025,10/14/2024,Monday Fam,Lewis,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8.0,8,7,4,4,0,0
+Monday Fam,2024-2025,10/21/2024,Monday Fam,Clark,Denver Curling Club,Tie,T,B,Red,Social Leauge,8,7.0,5,5,3,4,2,1
+Monday Fam,2024-2025,10/28/2024,Monday Fam,White,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,4.0,7,0,1,3,3,0
+Monday Fam,2024-2025,11/4/2024,Monday Fam,Lee,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,8.0,5,8,5,3,1,3
+Monday Fam,2024-2025,11/11/2024,Monday Fam,Bailey,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,7.0,6,3,3,4,2,0
+Monday Fam,2024-2025,11/18/2024,Monday Fam,Wenzel,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,7.0,9,3,3,4,2,1
+Monday Fam,2024-2025,12/2/2024,Monday Fam,Weldon,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,4.0,2,8,2,2,1,1
+Monday Fam,2024-2025,12/9/2024,Monday Fam,Thomas,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8.0,7,4,3,5,2,0
+Monday Fam,2024-2025,12/16/2024,Monday Fam,Dunn,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6.0,9,1,2,4,3,0
+Monday Fam,2024-2025,1/6/2025,Monday Fam,Hobbs,Denver Curling Club,Loss,L,C,Red,Social Leauge,8,6.0,1,7,5,1,0,4
+Monday Fam,2024-2025,1/13/2025,Monday Fam,Henney,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,7.0,9,1,2,5,3,0
+Monday Fam,2024-2025,1/27/2025,Monday Fam,Maule,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,7.0,4,8,4,3,1,3
+Monday Fam,2024-2025,2/3/2025,Monday Fam,Rolison,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,7.0,4,2,3,4,1,0
+Monday Fam,2024-2025,2/17/2025,Monday Fam,Wellen,Denver Curling Club,Win,W,D,Red,Social Leauge,8,7.0,7,2,3,4,1,0
+Monday Fam,2024-2025,2/24/2025,Monday Fam,Lewis,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7.0,10,6,4,3,0,0
+Monday Fam,2024-2025,3/3/2025,Monday Fam,Mason,Denver Curling Club,Win,W,A,Red,Social Leauge,8,6.0,10,3,3,3,0,0
+Monday Fam,2024-2025,3/10/2025,Monday Fam,Wenzel,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,7.0,8,3,3,4,1,0
+Monday Fam,2024-2025,3/17/2025,Monday Fam,Clark,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6.0,9,0,1,5,3,0
+Monday Fam,2024-2025,3/31/2025,Monday Fam,Weldon,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,9.0,6,7,3,6,2,0
+Monday Fam,2025-2026,10/6/2025,Monday Fam,Wellen,Denver Curling Club,Win,W,C,Red,Social Leauge,8,6.0,7,3,2,4,1,0
+Monday Fam,2025-2026,10/13/2025,Monday Fam,Devol,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,7.0,12,4,3,4,1,0
+Monday Fam,2025-2026,10/20/2025,Monday Fam,Lewis,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6.0,12,3,3,3,3,2
+Monday Fam,2025-2026,10/27/2025,Monday Fam,Sleeper,Denver Curling Club,,T,D,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,11/3/2025,Monday Fam,Wellen,Denver Curling Club,,T,C,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,11/10/2025,Monday Fam,Clark,Denver Curling Club,,T,C,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,11/17/2025,Monday Fam,Lee,Denver Curling Club,,T,A,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,12/1/2025,Monday Fam,Hannan,Denver Curling Club,,T,C,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,12/8/2025,Monday Fam,Bradshaw,Denver Curling Club,,T,B,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,12/15/2025,Monday Fam,Ernstberger,Denver Curling Club,,T,D,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,1/5/2026,Monday Fam,Langham,Denver Curling Club,,T,A,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,1/12/2026,Monday Fam,Thomas,Denver Curling Club,,T,C,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,1/19/2026,Monday Fam,Maule,Denver Curling Club,,T,A,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,1/26/2026,Monday Fam,Blazing Saddles,Denver Curling Club,,T,D,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,2/9/2026,Monday Fam,Cunningham,Denver Curling Club,,T,D,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,2/23/2026,Monday Fam,Dunn,Denver Curling Club,,T,D,,Social Leauge,8,,0,0,0,0,0,0
+Monday Fam,2025-2026,3/2/2026,Monday Fam,Devol,Denver Curling Club,,T,A,,Social Leauge,8,,0,0,0,0,0,0
+Monday_Hijinks,2023-2024,3/25/2023,Monday_Hijinks,Sleeper,Denver Curling Club,Win,L,C,Yellow,Social Leauge,8,8.0,4,7,2,5,3,2
+Monday_Hijinks,2023-2024,4/1/2023,Monday_Hijinks,Wilson,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8.0,9,6,4,4,1,0
+Monday_Hijinks,2023-2024,10/2/2023,Monday_Hijinks,Rain,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,8.0,5,6,5,3,0,2
+Monday_Hijinks,2023-2024,10/9/2023,Monday_Hijinks,White,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6.0,12,3,4,2,0,0
+Monday_Hijinks,2023-2024,10/16/2023,Monday_Hijinks,Maule,Denver Curling Club,Win,W,A,Red,Social Leauge,8,6.0,5,1,3,3,2,0
+Monday_Hijinks,2023-2024,10/23/2023,Monday_Hijinks,Mason,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7.0,6,3,3,4,3,2
+Monday_Hijinks,2023-2024,10/30/2023,Monday_Hijinks,Thomas,Denver Curling Club,Win,W,D,Red,Social Leauge,8,7.0,14,4,2,5,5,1
+Monday_Hijinks,2023-2024,11/6/2023,Monday_Hijinks,Riley,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6.0,10,1,2,4,3,0
+Monday_Hijinks,2023-2024,11/13/2023,Monday_Hijinks,Wellen,Denver Curling Club,Win,W,B,Red,Social Leauge,8,7.0,5,2,2,4,3,1
+Monday_Hijinks,2023-2024,11/27/2023,Monday_Hijinks,Maule,Denver Curling Club,Win,W,C,Red,Social Leauge,8,6.0,9,3,2,4,2,0
+Monday_Hijinks,2023-2024,12/4/2023,Monday_Hijinks,White,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,6.0,8,2,2,4,3,1
+Monday_Hijinks,2023-2024,12/11/2023,Monday_Hijinks,Wilson,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6.0,10,3,3,3,1,1
+Monday_Hijinks,2023-2024,12/18/2023,Monday_Hijinks,Schrieber,Denver Curling Club,Win,W,B,Yellow,Social Leauge,8,8.0,19,0,1,7,7,0
+Monday_Hijinks,2023-2024,1/8/2024,Monday_Hijinks,Sleeper,Denver Curling Club,Win,W,B,Red,Social Leauge,8,6.0,13,1,2,4,3,0
+Monday_Hijinks,2023-2024,1/15/2024,Monday_Hijinks,Brandshaw,Denver Curling Club,Win,W,A,Red,Social Leauge,8,7.0,8,5,4,3,0,1
+Monday_Hijinks,2023-2024,1/22/2024,Monday_Hijinks,Lee,Denver Curling Club,Loss,L,A,Red,Social Leauge,8,8.0,7,8,3,5,2,0
+Monday_Hijinks,2023-2024,1/29/2024,Monday_Hijinks,Doherty,Denver Curling Club,Tie,T,C,Yellow,Social Leauge,8,8.0,5,5,4,4,1,1
+Monday_Hijinks,2023-2024,2/5/2024,Monday_Hijinks,Rein,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6.0,8,1,2,4,2,0
+Monday_Hijinks,2023-2024,2/12/2024,Monday_Hijinks,Dunn,Denver Curling Club,Win,W,D,Yellow,Social Leauge,8,6.0,14,2,3,3,2,1
+Monday_Hijinks,2023-2024,2/19/2024,Monday_Hijinks,Cunningham,Denver Curling Club,Win,W,C,Yellow,Social Leauge,8,6.0,7,5,3,3,1,1
+Monday_Hijinks,2023-2024,3/18/2024,Monday_Hijinks,Dunn,Denver Curling Club,Loss,L,D,Red,Social Leauge,8,7.0,2,8,5,2,1,4
+Monsters,2023-2024,1/12/2024,Monsters,Witschen,Wausau Curling Club,Win,W,8,Yellow,Bonspiel,8,6.0,8,2,2,4,2,0
+Monsters,2023-2024,1/13/2024,Monsters,White Heathers,Wausau Curling Club,Win,W,4,Yellow,Bonspiel,8,7.0,10,6,5,2,0,2
+Monsters,2023-2024,1/13/2024,Monsters,Sandquist,Wausau Curling Club,Win,W,6,Red,Bonspiel,8,6.0,7,2,3,3,3,2
+Monsters,2023-2024,1/14/2024,Monsters,O'Connell,Wausau Curling Club,Loss,W,8,Red,Bonspiel,8,8.0,4,3,4,4,2,2
+Raccoons,2023-2024,10/27/2023,Raccoons,Thanks for the Memeories,Madison Curling Club,Win,W,4,Yellow,Bonspiel,8,8.0,15,3,3,5,2,0
+Raccoons,2023-2024,10/28/2023,Raccoons,D. Nelson,Madison Curling Club,Win,W,2,Yellow,Bonspiel,8,8.0,8,6,3,5,1,0
+Raccoons,2023-2024,10/28/2023,Raccoons,Ramm,Madison Curling Club,Win,W,6,Yellow,Bonspiel,8,6.0,7,2,2,4,3,1
+Raccoons,2023-2024,10/28/2023,Raccoons,Dietz,Madison Curling Club,Loss,L,1,Yellow,Bonspiel,8,6.0,0,6,6,0,0,5
+Raccoons,2023-2024,12/1/2023,Raccoons,Segovia,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7.0,9,7,3,4,2,2
+Raccoons,2023-2024,12/2/2023,Raccoons,Walsh,Denver Curling Club,Win,W,B,Red,Playdowns,8,7.0,9,4,4,3,2,1
+Raccoons,2023-2024,12/2/2023,Raccoons,Stavely,Denver Curling Club,Win,T,D,Yellow,Playdowns,8,8.0,5,5,4,4,1,0
+Raccoons,2023-2024,12/3/2023,Raccoons,Smith,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,7.0,5,1,1,6,3,0
+Raccoons,2023-2024,12/3/2023,Raccoons,Henning,Denver Curling Club,Loss,L,D,Red,Playdowns,8,9.0,6,7,5,4,1,2
+Raccoons,2023-2024,12/4/2023,Raccoons,Wood,Denver Curling Club,Win,W,C,Red,Playdowns,8,9.0,8,7,6,3,0,2
+Raccoons,2023-2024,4/3/2024,Raccoons,McGregor,Fargo Moorhead Curling Club,Win,W,A,Red,Playdowns,8,7.0,7,5,2,5,1,0
+Raccoons,2023-2024,4/4/2024,Raccoons,Politano,Fargo Moorhead Curling Club,Win,W,E,Red,Playdowns,8,8.0,6,5,3,5,2,0
+Raccoons,2023-2024,4/4/2024,Raccoons,Mason,Fargo Moorhead Curling Club,Win,W,A,Yellow,Playdowns,8,7.0,8,4,4,3,1,1
+Raccoons,2023-2024,4/5/2024,Raccoons,Aubrey,Fargo Moorhead Curling Club,Loss,L,F,Yellow,Playdowns,8,8.0,2,7,6,2,0,4
+Raccoons,2023-2024,4/5/2024,Raccoons,Lagasse,Fargo Moorhead Curling Club,Loss,W,B,Yellow,Playdowns,8,9.0,5,3,5,4,2,2
+Rocky Mtn Lobstaaas,2024-2025,11/8/2024,Rocky Mtn Lobstaaas,Dr Allans,Belfast Curling Club,Win,W,3,Yellow,Bonspiel,8,6.0,8,3,2,4,3,2
+Rocky Mtn Lobstaaas,2024-2025,11/8/2024,Rocky Mtn Lobstaaas,"Curl, Drink, Repeat",Belfast Curling Club,Win,W,1,Red,Bonspiel,8,4.0,11,0,1,3,3,0
+Rocky Mtn Lobstaaas,2024-2025,11/9/2024,Rocky Mtn Lobstaaas,Hit & Loberst Roll,Belfast Curling Club,Win,W,3,Yellow,Bonspiel,8,7.0,6,5,2,5,3,0
+Rocky Mtn Lobstaaas,2024-2025,11/10/2024,Rocky Mtn Lobstaaas,Irieites,Belfast Curling Club,Win,W,2,Red,Bonspiel,8,7.0,5,3,1,6,3,0
+Subbing,2023-2024,9/14/2023,Subbing,Feldman,Denver Curling Club,Win,W,A,Yellow,Bonspiel,8,8.0,8,6,4,4,1,0
+Subbing,2023-2024,9/15/2023,Subbing,Neill,Denver Curling Club,Loss,L,B,Red,Bonspiel,8,7.0,4,6,4,3,1,1
+Subbing,2023-2024,9/22/2023,Subbing,Craftwerk,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7.0,7,3,3,4,3,1
+Subbing,2023-2024,9/23/2023,Subbing,Braustolz,Denver Curling Club,Loss,L,B,Red,Bonspiel,8,7.0,5,7,5,2,1,3
+Subbing,2023-2024,9/23/2023,Subbing,Watzdorfer,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7.0,11,1,2,5,4,0
+Subbing,2023-2024,9/24/2023,Subbing,Holzlandbrau,Denver Curling Club,Loss,L,C,Yellow,Bonspiel,8,6.0,2,5,4,2,0,2
+Subbing,2023-2024,9/29/2023,Subbing,FAC,Denver Curling Club,Win,W,B,Yellow,Social Leauge,8,7.0,8,2,2,5,3,0
+Subbing,2023-2024,10/4/2023,Subbing,Weds Night,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8.0,7,6,4,4,2,2
+Subbing,2023-2024,10/10/2023,Subbing,Tues Comp,Denver Curling Club,Loss,L,D,Yellow,Competitive League,8,7.0,3,7,4,3,1,2
+Subbing,2023-2024,10/20/2023,Subbing,FAC,Denver Curling Club,Loss,L,C,Red,Social Leauge,8,7.0,5,8,4,3,0,2
+Subbing,2023-2024,10/23/2023,Subbing,Scrimmage,Denver Curling Club,Loss,L,D,Yellow,Social Leauge,8,6.0,3,8,4,2,0,2
+Subbing,2023-2024,10/24/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,D,Yellow,Competitive League,8,6.0,8,1,2,4,3,0
+Subbing,2023-2024,11/7/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,C,Red,Competitive League,8,7.0,8,6,2,5,2,0
+Subbing,2023-2024,11/10/2023,Subbing,FAC,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8.0,6,4,3,5,3,1
+Subbing,2023-2024,11/11/2023,Subbing,Mixed Doubles,Rock Creek Curling,Win,W,F,Yellow,Social Leauge,8,8.0,13,9,4,4,0,0
+Subbing,2023-2024,11/17/2023,Subbing,Buy Me a Margarita,Coyotes Curling Club,Win,W,B,Red,Bonspiel,8,8.0,7,4,4,4,1,0
+Subbing,2023-2024,11/18/2023,Subbing,Fiesta Friends,Coyotes Curling Club,Win,W,D,Red,Bonspiel,8,6.0,16,1,2,4,3,0
+Subbing,2023-2024,11/18/2023,Subbing,Un Borracho,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,6.0,9,4,3,3,1,0
+Subbing,2023-2024,11/19/2023,Subbing,Rockin Around,Coyotes Curling Club,Win,W,D,Red,Bonspiel,8,6.0,7,3,1,5,3,0
+Subbing,2023-2024,11/19/2023,Subbing,Waiting to Get Cut,Coyotes Curling Club,Win,T,C,Red,Bonspiel,8,9.0,7,7,6,3,0,2
+Subbing,2023-2024,12/5/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,D,Red,Competitive League,8,8.0,7,6,3,5,2,1
+Subbing,2023-2024,12/12/2023,Subbing,Tues Comp,Denver Curling Club,Win,W,A,Red,Competitive League,8,8.0,6,5,5,3,1,2
+Subbing,2023-2024,1/2/2024,Subbing,Tues Comp,Denver Curling Club,Loss,L,D,Red,Competitive League,8,6.0,3,13,4,2,0,3
+Subbing,2023-2024,1/16/2024,Subbing,Tues Comp,Denver Curling Club,Loss,L,A,Yellow,Competitive League,8,8.0,4,6,3,5,1,0
+Subbing,2023-2024,1/30/2024,Subbing,Tues Comp,Denver Curling Club,Win,W,C,Red,Competitive League,8,8.0,8,3,5,3,2,2
+Subbing,2023-2024,2/16/2024,Subbing,FAC,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,6.0,6,8,3,4,0,0
+Subbing,2023-2024,2/29/2024,Subbing,Thurs Comp,Rock Creek Curling,Win,W,F,Green,Competitive League,8,7.0,6,3,2,5,2,0
+Subbing,2023-2024,3/15/2024,Subbing,Pixie Chicks,Coyotes Curling Club,Loss,L,C,Red,Bonspiel,8,7.0,4,5,4,3,1,1
+Subbing,2023-2024,3/15/2024,Subbing,If Ida,Coyotes Curling Club,Win,L,D,Red,Bonspiel,8,7.0,5,7,3,4,0,0
+Subbing,2023-2024,3/15/2024,Subbing,Spiel Sub,Coyotes Curling Club,Loss,T,D,Yellow,Bonspiel,8,7.0,4,4,2,5,3,1
+Subbing,2023-2024,3/16/2024,Subbing,Walsh,Coyotes Curling Club,Loss,L,A,Yellow,Bonspiel,8,7.0,6,7,3,4,2,1
+Subbing,2023-2024,4/8/2024,Subbing,Mon League,Rock Creek Curling,Win,W,E,Yellow,Social Leauge,8,7.0,9,4,3,4,2,0
+Subbing,2023-2024,4/15/2024,Subbing,Rein,Denver Curling Club,Win,W,D,Red,Social Leauge,8,8.0,9,2,2,6,4,0
+Subbing,2023-2024,4/20/2024,Subbing,Curling Capes,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,7.0,12,4,4,3,1,1
+Subbing,2023-2024,4/20/2024,Subbing,Warren,Denver Curling Club,Win,W,A,Yellow,Bonspiel,8,7.0,12,5,3,4,3,1
+Subbing,2023-2024,4/20/2024,Subbing,Infinity Stones,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,9.0,7,6,5,4,2,2
+Subbing,2023-2024,4/21/2024,Subbing,Bradshaw,Denver Curling Club,Loss,L,B,Yellow,Bonspiel,8,6.0,5,10,2,4,2,1
+Subbing,2023-2024,4/22/2024,Subbing,Ernstberger,Denver Curling Club,Win,W,A,Yellow,Social Leauge,8,8.0,10,2,2,6,4,0
+Subbing,2023-2024,4/29/2024,Subbing,Copp,Denver Curling Club,Loss,L,B,Red,Social Leauge,8,8.0,4,7,4,4,2,3
+Subbing,2023-2024,5/6/2024,Subbing,Lane,Denver Curling Club,Win,W,D,Red,Social Leauge,8,6.0,13,1,1,5,4,0
+Subbing,2023-2024,5/13/2024,Subbing,Hannan,Denver Curling Club,Win,W,C,Red,Social Leauge,8,8.0,12,6,4,4,1,1
+Subbing,2023-2024,6/21/2024,Subbing,Sobering,Denver Curling Club,Loss,L,B,Yellow,Bonspiel,8,8.0,6,7,3,5,2,1
+Subbing,2023-2024,6/22/2024,Subbing,Stay Salty,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7.0,8,3,1,6,4,0
+Subbing,2023-2024,6/22/2024,Subbing,Pomaika'i,Denver Curling Club,Win,W,C,Yellow,Bonspiel,8,8.0,9,8,3,5,3,1
+Subbing,2023-2024,6/22/2024,Subbing,Parts Unknown CC,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,7.0,8,5,2,5,2,0
+Subbing,2023-2024,6/23/2024,Subbing,Yeah Buddy!!,Denver Curling Club,Win,W,A,Red,Bonspiel,8,7.0,6,4,3,4,2,1
+Subbing,2023-2024,6/23/2024,Subbing,Peel-a-colada,Denver Curling Club,Win,W,C,Yellow,Bonspiel,8,6.0,7,1,1,5,3,0
+Subbing,2024-2025,7/5/2024,Subbing,TWSS,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,3.0,7,0,1,2,1,0
+Subbing,2024-2025,7/6/2024,Subbing,Cat Daddy,Coyotes Curling Club,Win,W,C,Yellow,Bonspiel,8,9.0,9,8,3,6,3,0
+Subbing,2024-2025,7/6/2024,Subbing,We Don’t Need No Stinking Hammer,Coyotes Curling Club,Win,W,B,Yellow,Bonspiel,8,9.0,6,5,4,5,2,1
+Subbing,2024-2025,7/7/2024,Subbing,High Risk-Low Reward,Coyotes Curling Club,Loss,L,C,Yellow,Bonspiel,8,8.0,8,11,4,4,1,2
+Subbing,2024-2025,10/11/2024,Subbing,FAC,Denver Curling Club,Win,W,C,Red,Social Leauge,8,7.0,7,5,2,5,3,0
+Subbing,2024-2025,11/22/2024,Subbing,FAC,Denver Curling Club,Win,W,B,Red,Social Leauge,8,8.0,10,3,2,6,3,0
+Subbing,2024-2025,12/11/2024,Subbing,Scrimmage,Rock Creek Curling,Win,W,D,Green,Social Leauge,8,6.0,8,3,3,3,1,1
+Subbing,2024-2025,12/12/2024,Subbing,Thurs Day,Denver Curling Club,Win,W,B,Red,Social Leauge,8,8.0,16,1,2,6,5,0
+Subbing,2024-2025,1/9/2025,Subbing,Thurs Day,Denver Curling Club,Loss,L,B,Yellow,Social Leauge,8,7.0,5,9,3,4,1,1
+Subbing,2024-2025,1/10/2025,Subbing,FAC,Denver Curling Club,Loss,L,A,Yellow,Social Leauge,8,8.0,6,7,4,4,3,4
+Subbing,2024-2025,1/10/2025,Subbing,FAC,Denver Curling Club,Loss,L,C,Yellow,Social Leauge,8,8.0,7,9,5,3,0,2
+Subbing,2024-2025,1/23/2025,Subbing,Thurs Day,Denver Curling Club,Loss,L,C,Yellow,Social Leauge,8,7.0,2,11,5,2,0,4
+Subbing,2024-2025,1/24/2025,Subbing,Wilson,Rock Creek Curling,Win,W,D,Green,Bonspiel,8,8.0,8,4,4,4,1,0
+Subbing,2024-2025,1/25/2025,Subbing,Connell,Rock Creek Curling,Win,W,A,Yellow,Bonspiel,8,6.0,7,4,3,3,2,2
+Subbing,2024-2025,1/25/2025,Subbing,Stavely,Rock Creek Curling,Loss,L,F,Yellow,Bonspiel,8,7.0,5,7,4,3,1,2
+Subbing,2024-2025,1/26/2025,Subbing,Cotter,Rock Creek Curling,Win,W,E,Green,Bonspiel,8,6.0,12,2,1,5,3,0
+Subbing,2024-2025,1/26/2025,Subbing,Lewis,Rock Creek Curling,Win,W,C,Green,Bonspiel,8,8.0,12,5,4,4,3,3
+Subbing,2025-2026,6/14/2025,Subbing,Roadrunners,Roadrunner Curling Club,Win,W,West,Red,Bonspiel,6,5.0,8,6,3,2,0,1
+Subbing,2025-2026,6/14/2025,Subbing,Roadrunners,Roadrunner Curling Club,Tie,T,East,Yellow,Bonspiel,6,5.0,5,5,2,3,0,1
+Subbing,2025-2026,6/14/2025,Subbing,Roadrunners,Roadrunner Curling Club,Loss,L,West,Red,Bonspiel,6,5.0,2,5,2,3,1,1
+Subbing,2025-2026,6/19/2025,Subbing,Thieme,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,8.0,19,2,2,6,3,0
+Subbing,2025-2026,6/20/2025,Subbing,Rum Double Trouble,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,8.0,6,5,4,4,1,1
+Subbing,2025-2026,6/20/2025,Subbing,Ripe for Disruption,Denver Curling Club,Win,W,C,Yellow,Bonspiel,8,8.0,6,5,3,5,2,1
+Subbing,2025-2026,6/21/2025,Subbing,Under the Boardweight,Denver Curling Club,Loss,L,C,Green,Bonspiel,8,6.0,2,9,3,3,0,1
+Thursday Women,2024-2025,1/16/2025,Thursday Women,Hawlucha,Rock Creek Curling,Win,W,B,Green,Competitive League,8,7.0,6,4,5,2,0,2
+Thursday Women,2024-2025,1/23/2025,Thursday Women,Gourgeist,Rock Creek Curling,Win,W,D,Green,Competitive League,8,7.0,5,2,3,4,3,1
+Thursday Women,2024-2025,1/30/2025,Thursday Women,Drampa,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6.0,11,2,2,4,2,0
+Thursday Women,2024-2025,2/6/2025,Thursday Women,Crabominable,Rock Creek Curling,Win,W,D,Green,Competitive League,8,7.0,5,3,3,4,1,0
+Thursday Women,2024-2025,2/13/2025,Thursday Women,Flapple,Rock Creek Curling,Loss,L,F,Green,Competitive League,8,7.0,3,9,5,2,0,3
+Thursday Women,2024-2025,3/13/2025,Thursday Women,Aromatisse,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,4.0,5,1,2,2,1,0
+Thursday Women,2024-2025,3/20/2025,Thursday Women,Pyukumuku,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7.0,10,6,4,3,1,2
+Thursday_Rookies,2023-2024,10/5/2023,Thursday_Rookies,Andrews,Rock Creek Curling,Loss,L,E,Green,Competitive League,8,8.0,6,8,2,6,4,1
+Thursday_Rookies,2023-2024,10/12/2023,Thursday_Rookies,Carle,Rock Creek Curling,Win,W,B,Green,Competitive League,8,6.0,7,1,0,6,5,0
+Thursday_Rookies,2023-2024,10/19/2023,Thursday_Rookies,Wood,Rock Creek Curling,Loss,L,D,Green,Competitive League,8,8.0,5,6,3,5,2,1
+Thursday_Rookies,2023-2024,10/26/2023,Thursday_Rookies,Stavely,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,8.0,8,6,4,4,1,0
+Thursday_Rookies,2023-2024,11/2/2023,Thursday_Rookies,Marlow,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,7.0,10,3,3,4,2,1
+Thursday_Rookies,2023-2024,11/9/2023,Thursday_Rookies,Mansell,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,4.0,0,11,4,0,0,4
+Thursday_Rookies,2023-2024,11/16/2023,Thursday_Rookies,Henning,Rock Creek Curling,Loss,L,E,Green,Competitive League,8,9.0,9,10,5,4,1,2
+Thursday_Rookies,2023-2024,11/30/2023,Thursday_Rookies,Sobering,Rock Creek Curling,Win,W,E,Green,Competitive League,8,8.0,5,3,2,6,3,1
+Thursday_Rookies,2023-2024,1/4/2024,Thursday_Rookies,Carle,Rock Creek Curling,Loss,L,B,Yellow,Competitive League,8,8.0,7,10,3,5,1,1
+Thursday_Rookies,2023-2024,1/18/2024,Thursday_Rookies,Schiestel,Rock Creek Curling,Loss,L,F,Yellow,Competitive League,8,6.0,4,8,4,2,0,1
+Thursday_Rookies,2023-2024,1/25/2024,Thursday_Rookies,Weldon,Rock Creek Curling,Loss,L,C,Green,Competitive League,8,6.0,4,8,1,5,3,0
+Thursday_Rookies,2023-2024,2/1/2024,Thursday_Rookies,Spielman,Rock Creek Curling,Loss,L,F,Green,Competitive League,8,6.0,2,8,4,2,0,2
+Thursday_Rookies,2023-2024,2/8/2024,Thursday_Rookies,Roselle,Rock Creek Curling,Win,W,C,Yellow,Competitive League,8,6.0,12,4,2,4,2,0
+Thursday_Rookies,2023-2024,2/22/2024,Thursday_Rookies,Andrews,Rock Creek Curling,Win,W,F,Yellow,Competitive League,8,8.0,8,2,3,5,3,1
+Thursday_Rookies,2023-2024,2/25/2024,Thursday_Rookies,Smith,Rock Creek Curling,Win,W,E,Green,Competitive League,8,6.0,9,0,0,6,6,0
+Thursday_Rookies,2023-2024,2/29/2024,Thursday_Rookies,Biesecker,Rock Creek Curling,Win,W,D,Green,Competitive League,8,8.0,10,4,3,5,4,2
+Thursday_Rookies,2023-2024,3/14/2024,Thursday_Rookies,Brekke,Rock Creek Curling,Loss,L,B,Yellow,Competitive League,8,7.0,4,5,3,4,2,1
+Thursday_Sobering,2024-2025,10/3/2024,Thursday_Sobering,Blue Moons,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,8.0,6,7,3,5,2,0
+Thursday_Sobering,2024-2025,10/10/2024,Thursday_Sobering,Electric Ice,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7.0,8,4,3,4,2,1
+Thursday_Sobering,2024-2025,10/24/2024,Thursday_Sobering,Frostbite Fliers,Rock Creek Curling,Loss,L,A,Green,Competitive League,8,7.0,4,9,4,3,1,2
+Thursday_Sobering,2024-2025,10/31/2024,Thursday_Sobering,Azure Waves,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6.0,13,3,1,5,4,0
+Thursday_Sobering,2024-2025,11/7/2024,Thursday_Sobering,Glacier Guardians,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,6.0,11,5,2,4,1,0
+Tuesday_Sobering,2024-2025,10/8/2024,Tuesday_Sobering,Danahey,Denver Curling Club,Loss,L,B,Red,Competitive League,8,8.0,5,9,4,4,0,1
+Tuesday_Sobering,2024-2025,10/22/2024,Tuesday_Sobering,Dudt,Denver Curling Club,Loss,T,A,Red,Competitive League,8,9.0,7,7,3,6,3,1
+Tuesday_Sobering,2024-2025,10/29/2024,Tuesday_Sobering,Wolfe,Denver Curling Club,Win,W,C,Yellow,Competitive League,8,7.0,11,2,2,5,2,0
+Tuesday_Sobering,2024-2025,11/5/2024,Tuesday_Sobering,Wishart,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,7.0,6,3,4,3,1,1
+Tuesday_Sobering,2024-2025,11/19/2024,Tuesday_Sobering,Moir,Denver Curling Club,Loss,L,A,Yellow,Competitive League,8,7.0,4,5,4,3,0,1
+Tuesday_Sobering,2024-2025,12/10/2024,Tuesday_Sobering,Moir,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,7.0,10,3,1,6,5,0
+Tuesday_Sobering,2024-2025,12/17/2024,Tuesday_Sobering,Bata,Denver Curling Club,Loss,L,C,Red,Competitive League,8,7.0,4,7,5,2,0,4
+Tuesday_Sobering,2024-2025,1/7/2025,Tuesday_Sobering,Wishart,Denver Curling Club,Win,W,C,Yellow,Competitive League,8,7.0,10,5,3,4,2,1
+Tuesday_Sobering,2024-2025,1/14/2025,Tuesday_Sobering,Culbertson,Denver Curling Club,Win,T,B,Yellow,Competitive League,8,8.0,6,6,4,4,2,2
+Tuesday_Sobering,2024-2025,1/21/2025,Tuesday_Sobering,Wolfe,Denver Curling Club,Win,W,D,Yellow,Competitive League,8,6.0,10,1,1,5,4,0
+Tuesday_Sobering,2024-2025,1/28/2025,Tuesday_Sobering,Kizlyk,Denver Curling Club,Win,W,B,Yellow,Competitive League,8,8.0,6,4,5,3,1,1
+Tuesday_Sobering,2024-2025,2/11/2025,Tuesday_Sobering,Rose,Denver Curling Club,Win,W,A,Red,Competitive League,8,7.0,9,7,3,4,2,2
+Tuesday_Sobering,2024-2025,2/18/2025,Tuesday_Sobering,Sobering,Denver Curling Club,Loss,L,B,Red,Competitive League,8,6.0,2,6,4,2,0,2
+Tuesday_Sobering,2024-2025,3/4/2025,Tuesday_Sobering,Suhr,Denver Curling Club,Loss,L,C,Yellow,Competitive League,8,7.0,3,5,4,3,1,1
+Tuesday_Sobering,2024-2025,3/11/2025,Tuesday_Sobering,Falco,Denver Curling Club,Loss,L,D,Yellow,Competitive League,8,4.0,3,9,3,1,0,2
+Tuesday_Sobering,2024-2025,3/18/2025,Tuesday_Sobering,Mansell,Denver Curling Club,Loss,L,B,Yellow,Competitive League,8,6.0,1,7,5,1,0,4
+Tuesday_Sobering,2024-2025,4/1/2025,Tuesday_Sobering,Rose,Denver Curling Club,Win,W,C,Red,Competitive League,8,7.0,7,1,1,6,5,0
+Womens Mix,2024-2025,11/15/2024,Womens Mix,Soup with Rice,Coyotes Curling Club,Loss,L,B,Yellow,Bonspiel,8,7.0,3,9,3,4,2,2
+Womens Mix,2024-2025,11/16/2024,Womens Mix,Pour Decisions,Coyotes Curling Club,Loss,L,B,Red,Bonspiel,8,7.0,5,9,5,2,0,3
+Womens Mix,2024-2025,11/16/2024,Womens Mix,Team Reid,Coyotes Curling Club,Win,W,B,Yellow,Bonspiel,8,6.0,12,4,3,3,1,0
+Womens Mix,2024-2025,11/17/2024,Womens Mix,"Fiesta, Siesta, Tequila, Repeat",Coyotes Curling Club,Loss,L,B,Yellow,Bonspiel,8,9.0,5,6,4,5,2,2
+Womens Mix,2024-2025,12/5/2024,Womens Mix,Marcantano,Denver Curling Club,Win,W,D,Yellow,Bonspiel,8,6.0,10,1,2,4,3,0
+Womens Mix,2024-2025,12/7/2024,Womens Mix,Bucci,Denver Curling Club,Win,W,B,Yellow,Bonspiel,8,9.0,7,6,4,5,1,1
+Womens Mix,2024-2025,12/7/2024,Womens Mix,Mechenbrier,Denver Curling Club,Loss,L,D,Yellow,Bonspiel,8,6.0,5,9,4,2,0,1
+Womens Mix,2024-2025,12/13/2024,Womens Mix,Smith,Rock Creek Curling,Win,W,F,Green,Playdowns,8,8.0,6,4,4,4,1,1
+Womens Mix,2024-2025,12/13/2024,Womens Mix,Bradshaw,Rock Creek Curling,Win,W,D,Green,Playdowns,8,6.0,11,4,4,2,0,1
+Womens Mix,2024-2025,12/14/2024,Womens Mix,Stavely,Rock Creek Curling,Win,W,B,Green,Playdowns,8,6.0,6,2,2,4,2,0
+Womens Mix,2024-2025,12/14/2024,Womens Mix,Henning,Rock Creek Curling,Win,W,E,Yellow,Playdowns,8,8.0,9,5,5,3,1,1
+Womens Mix,2024-2025,12/14/2024,Womens Mix,Segovia,Rock Creek Curling,Win,W,C,Yellow,Playdowns,8,7.0,7,3,3,4,2,1
+Womens Mix,2024-2025,12/15/2024,Womens Mix,Segovia,Rock Creek Curling,Loss,L,D,Green,Playdowns,8,7.0,1,4,2,5,0,1
+Womens Mix,2024-2025,12/15/2024,Womens Mix,Segovia,Rock Creek Curling,Loss,L,C,Green,Playdowns,8,8.0,8,9,4,4,1,1
+Womens Mix,2025-2026,10/7/2025,Womens Mix,Rose Sr,Denver Curling Club,Loss,L,B,Red,Competitive League,8,8.0,4,7,5,3,0,1
+Womens Mix,2025-2026,10/14/2025,Womens Mix,Clark,Denver Curling Club,Loss,L,C,Red,Competitive League,8,7.0,3,5,4,3,1,2
+Womens Mix,2025-2026,10/21/2025,Womens Mix,Bata,Denver Curling Club,,T,D,,Competitive League,8,,0,0,0,0,0,0
+Womens Mix,2025-2026,10/28/2025,Womens Mix,Wishart,Denver Curling Club,,T,A,,Competitive League,8,,0,0,0,0,0,0
+Womens Mix,2025-2026,11/4/2025,Womens Mix,Davis,Denver Curling Club,,T,D,,Competitive League,8,,0,0,0,0,0,0
+Womens Mix,2025-2026,11/11/2025,Womens Mix,Kizlyk,Denver Curling Club,,T,A,,Competitive League,8,,0,0,0,0,0,0
+Womens Mix,2025-2026,11/18/2025,Womens Mix,Lewis,Denver Curling Club,,T,C,,Competitive League,8,,0,0,0,0,0,0

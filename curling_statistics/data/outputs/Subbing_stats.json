@@ -2,38 +2,39 @@
   "team": "Subbing",
   "seasons": [
     "2023-2024",
-    "2024-2025"
+    "2024-2025",
+    "2025-2026"
   ],
-  "games_played": 64,
+  "games_played": 71,
   "record": {
-    "wins": 41,
-    "losses": 21,
-    "ties": 2
+    "wins": 45,
+    "losses": 23,
+    "ties": 3
   },
   "points": {
-    "for": 475,
-    "against": 334,
-    "diff": 141,
-    "avg_for_per_game": 7.422,
-    "avg_against_per_game": 5.219
+    "for": 523,
+    "against": 371,
+    "diff": 152,
+    "avg_for_per_game": 7.366,
+    "avg_against_per_game": 5.225
   },
   "hammer": {
-    "ends": 201,
-    "scoring_ends": 136,
-    "two_plus_ends": 76,
+    "ends": 220,
+    "scoring_ends": 149,
+    "two_plus_ends": 84,
     "blank_ends": 2,
     "scoring_rate": 0.677,
-    "two_plus_rate": 0.378,
-    "blank_rate": 0.01,
-    "steals_allowed": 63
+    "two_plus_rate": 0.382,
+    "blank_rate": 0.009,
+    "steals_allowed": 69
   },
   "no_hammer": {
-    "ends": 260,
-    "steals_for": 120,
-    "steal_rate": 0.462,
-    "force_exactly_one_ends": 74,
-    "force_rate": 0.285,
-    "defense_leq_one_ends": 196,
-    "defense_leq_one_rate": 0.754
+    "ends": 286,
+    "steals_for": 127,
+    "steal_rate": 0.444,
+    "force_exactly_one_ends": 86,
+    "force_rate": 0.301,
+    "defense_leq_one_ends": 217,
+    "defense_leq_one_rate": 0.759
   }
 }

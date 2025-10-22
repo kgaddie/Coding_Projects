@@ -1,16 +1,16 @@
 Season,Date,Team Name,Opponent,Location,Outcome (from dataset),Computed Result,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,Points For,Points Against,Hammer Ends,No-Hammer Ends,Steals For,Steals Against
-2023-2024,10/27/2023,Raccoons,Thanks for the Memeories,Madison Curling Club,Win,W,4,Yellow,Bonspiel,8,8,15,3,3,5,2,0
-2023-2024,10/28/2023,Raccoons,D. Nelson,Madison Curling Club,Win,W,2,Yellow,Bonspiel,8,8,8,6,3,5,1,0
-2023-2024,10/28/2023,Raccoons,Ramm,Madison Curling Club,Win,W,6,Yellow,Bonspiel,8,6,7,2,2,4,3,1
-2023-2024,10/28/2023,Raccoons,Dietz,Madison Curling Club,Loss,L,1,Yellow,Bonspiel,8,6,0,6,6,0,0,5
-2023-2024,12/1/2023,Raccoons,Segovia,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7,9,7,3,4,2,2
-2023-2024,12/2/2023,Raccoons,Walsh,Denver Curling Club,Win,W,B,Red,Playdowns,8,7,9,4,4,3,2,1
-2023-2024,12/2/2023,Raccoons,Stavely,Denver Curling Club,Win,T,D,Yellow,Playdowns,8,8,5,5,4,4,1,0
-2023-2024,12/3/2023,Raccoons,Smith,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,7,5,1,1,6,3,0
-2023-2024,12/3/2023,Raccoons,Henning,Denver Curling Club,Loss,L,D,Red,Playdowns,8,9,6,7,5,4,1,2
-2023-2024,12/4/2023,Raccoons,Wood,Denver Curling Club,Win,W,C,Red,Playdowns,8,9,8,7,6,3,0,2
-2023-2024,4/3/2024,Raccoons,McGregor,Fargo Moorhead Curling Club,Win,W,A,Red,Playdowns,8,7,7,5,2,5,1,0
-2023-2024,4/4/2024,Raccoons,Politano,Fargo Moorhead Curling Club,Win,W,E,Red,Playdowns,8,8,6,5,3,5,2,0
-2023-2024,4/4/2024,Raccoons,Mason,Fargo Moorhead Curling Club,Win,W,A,Yellow,Playdowns,8,7,8,4,4,3,1,1
-2023-2024,4/5/2024,Raccoons,Aubrey,Fargo Moorhead Curling Club,Loss,L,F,Yellow,Playdowns,8,8,2,7,6,2,0,4
-2023-2024,4/5/2024,Raccoons,Lagasse,Fargo Moorhead Curling Club,Loss,W,B,Yellow,Playdowns,8,9,5,3,5,4,2,2
+2023-2024,10/27/2023,Raccoons,Thanks for the Memeories,Madison Curling Club,Win,W,4,Yellow,Bonspiel,8,8.0,15,3,3,5,2,0
+2023-2024,10/28/2023,Raccoons,D. Nelson,Madison Curling Club,Win,W,2,Yellow,Bonspiel,8,8.0,8,6,3,5,1,0
+2023-2024,10/28/2023,Raccoons,Ramm,Madison Curling Club,Win,W,6,Yellow,Bonspiel,8,6.0,7,2,2,4,3,1
+2023-2024,10/28/2023,Raccoons,Dietz,Madison Curling Club,Loss,L,1,Yellow,Bonspiel,8,6.0,0,6,6,0,0,5
+2023-2024,12/1/2023,Raccoons,Segovia,Denver Curling Club,Win,W,A,Yellow,Playdowns,8,7.0,9,7,3,4,2,2
+2023-2024,12/2/2023,Raccoons,Walsh,Denver Curling Club,Win,W,B,Red,Playdowns,8,7.0,9,4,4,3,2,1
+2023-2024,12/2/2023,Raccoons,Stavely,Denver Curling Club,Win,T,D,Yellow,Playdowns,8,8.0,5,5,4,4,1,0
+2023-2024,12/3/2023,Raccoons,Smith,Denver Curling Club,Win,W,B,Yellow,Playdowns,8,7.0,5,1,1,6,3,0
+2023-2024,12/3/2023,Raccoons,Henning,Denver Curling Club,Loss,L,D,Red,Playdowns,8,9.0,6,7,5,4,1,2
+2023-2024,12/4/2023,Raccoons,Wood,Denver Curling Club,Win,W,C,Red,Playdowns,8,9.0,8,7,6,3,0,2
+2023-2024,4/3/2024,Raccoons,McGregor,Fargo Moorhead Curling Club,Win,W,A,Red,Playdowns,8,7.0,7,5,2,5,1,0
+2023-2024,4/4/2024,Raccoons,Politano,Fargo Moorhead Curling Club,Win,W,E,Red,Playdowns,8,8.0,6,5,3,5,2,0
+2023-2024,4/4/2024,Raccoons,Mason,Fargo Moorhead Curling Club,Win,W,A,Yellow,Playdowns,8,7.0,8,4,4,3,1,1
+2023-2024,4/5/2024,Raccoons,Aubrey,Fargo Moorhead Curling Club,Loss,L,F,Yellow,Playdowns,8,8.0,2,7,6,2,0,4
+2023-2024,4/5/2024,Raccoons,Lagasse,Fargo Moorhead Curling Club,Loss,W,B,Yellow,Playdowns,8,9.0,5,3,5,4,2,2

@@ -1,38 +1,39 @@
 {
   "team": "Womens Mix",
   "seasons": [
-    "2024-2025"
+    "2024-2025",
+    "2025-2026"
   ],
-  "games_played": 14,
+  "games_played": 21,
   "record": {
     "wins": 8,
-    "losses": 6,
-    "ties": 0
+    "losses": 8,
+    "ties": 5
   },
   "points": {
-    "for": 95,
-    "against": 75,
-    "diff": 20,
-    "avg_for_per_game": 6.786,
-    "avg_against_per_game": 5.357
+    "for": 102,
+    "against": 87,
+    "diff": 15,
+    "avg_for_per_game": 4.857,
+    "avg_against_per_game": 4.143
   },
   "hammer": {
-    "ends": 49,
-    "scoring_ends": 33,
+    "ends": 58,
+    "scoring_ends": 39,
     "two_plus_ends": 18,
     "blank_ends": 1,
-    "scoring_rate": 0.673,
-    "two_plus_rate": 0.367,
-    "blank_rate": 0.02,
-    "steals_allowed": 15
+    "scoring_rate": 0.672,
+    "two_plus_rate": 0.31,
+    "blank_rate": 0.017,
+    "steals_allowed": 18
   },
   "no_hammer": {
-    "ends": 51,
-    "steals_for": 16,
-    "steal_rate": 0.314,
-    "force_exactly_one_ends": 19,
-    "force_rate": 0.373,
-    "defense_leq_one_ends": 38,
-    "defense_leq_one_rate": 0.745
+    "ends": 57,
+    "steals_for": 17,
+    "steal_rate": 0.298,
+    "force_exactly_one_ends": 21,
+    "force_rate": 0.368,
+    "defense_leq_one_ends": 42,
+    "defense_leq_one_rate": 0.737
   }
 }

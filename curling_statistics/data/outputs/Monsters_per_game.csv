@@ -1,5 +1,5 @@
 Season,Date,Team Name,Opponent,Location,Outcome (from dataset),Computed Result,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,Points For,Points Against,Hammer Ends,No-Hammer Ends,Steals For,Steals Against
-2023-2024,1/12/2024,Monsters,Witschen,Wausau Curling Club,Win,W,8,Yellow,Bonspiel,8,6,8,2,2,4,2,0
-2023-2024,1/13/2024,Monsters,White Heathers,Wausau Curling Club,Win,W,4,Yellow,Bonspiel,8,7,10,6,5,2,0,2
-2023-2024,1/13/2024,Monsters,Sandquist,Wausau Curling Club,Win,W,6,Red,Bonspiel,8,6,7,2,3,3,3,2
-2023-2024,1/14/2024,Monsters,O'Connell,Wausau Curling Club,Loss,W,8,Red,Bonspiel,8,8,4,3,4,4,2,2
+2023-2024,1/12/2024,Monsters,Witschen,Wausau Curling Club,Win,W,8,Yellow,Bonspiel,8,6.0,8,2,2,4,2,0
+2023-2024,1/13/2024,Monsters,White Heathers,Wausau Curling Club,Win,W,4,Yellow,Bonspiel,8,7.0,10,6,5,2,0,2
+2023-2024,1/13/2024,Monsters,Sandquist,Wausau Curling Club,Win,W,6,Red,Bonspiel,8,6.0,7,2,3,3,3,2
+2023-2024,1/14/2024,Monsters,O'Connell,Wausau Curling Club,Loss,W,8,Red,Bonspiel,8,8.0,4,3,4,4,2,2

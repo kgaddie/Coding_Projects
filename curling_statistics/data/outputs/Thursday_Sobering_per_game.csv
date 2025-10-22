@@ -1,6 +1,6 @@
 Season,Date,Team Name,Opponent,Location,Outcome (from dataset),Computed Result,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,Points For,Points Against,Hammer Ends,No-Hammer Ends,Steals For,Steals Against
-2024-2025,10/3/2024,Thursday_Sobering,Blue Moons,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,8,6,7,3,5,2,0
-2024-2025,10/10/2024,Thursday_Sobering,Electric Ice,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7,8,4,3,4,2,1
-2024-2025,10/24/2024,Thursday_Sobering,Frostbite Fliers,Rock Creek Curling,Loss,L,A,Green,Competitive League,8,7,4,9,4,3,1,2
-2024-2025,10/31/2024,Thursday_Sobering,Azure Waves,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6,13,3,1,5,4,0
-2024-2025,11/7/2024,Thursday_Sobering,Glacier Guardians,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,6,11,5,2,4,1,0
+2024-2025,10/3/2024,Thursday_Sobering,Blue Moons,Rock Creek Curling,Loss,L,A,Yellow,Competitive League,8,8.0,6,7,3,5,2,0
+2024-2025,10/10/2024,Thursday_Sobering,Electric Ice,Rock Creek Curling,Win,W,C,Green,Competitive League,8,7.0,8,4,3,4,2,1
+2024-2025,10/24/2024,Thursday_Sobering,Frostbite Fliers,Rock Creek Curling,Loss,L,A,Green,Competitive League,8,7.0,4,9,4,3,1,2
+2024-2025,10/31/2024,Thursday_Sobering,Azure Waves,Rock Creek Curling,Win,W,A,Green,Competitive League,8,6.0,13,3,1,5,4,0
+2024-2025,11/7/2024,Thursday_Sobering,Glacier Guardians,Rock Creek Curling,Win,W,D,Yellow,Competitive League,8,6.0,11,5,2,4,1,0

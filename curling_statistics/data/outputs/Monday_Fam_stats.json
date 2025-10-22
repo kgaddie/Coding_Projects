@@ -2,38 +2,39 @@
   "team": "Monday Fam",
   "seasons": [
     "2023-2024",
-    "2024-2025"
+    "2024-2025",
+    "2025-2026"
   ],
-  "games_played": 25,
+  "games_played": 42,
   "record": {
-    "wins": 17,
+    "wins": 20,
     "losses": 7,
-    "ties": 1
+    "ties": 15
   },
   "points": {
-    "for": 175,
-    "against": 101,
-    "diff": 74,
-    "avg_for_per_game": 7.0,
-    "avg_against_per_game": 4.04
+    "for": 206,
+    "against": 111,
+    "diff": 95,
+    "avg_for_per_game": 4.905,
+    "avg_against_per_game": 2.643
   },
   "hammer": {
-    "ends": 71,
-    "scoring_ends": 53,
-    "two_plus_ends": 28,
+    "ends": 79,
+    "scoring_ends": 59,
+    "two_plus_ends": 32,
     "blank_ends": 1,
-    "scoring_rate": 0.746,
-    "two_plus_rate": 0.394,
-    "blank_rate": 0.014,
-    "steals_allowed": 17
+    "scoring_rate": 0.747,
+    "two_plus_rate": 0.405,
+    "blank_rate": 0.013,
+    "steals_allowed": 19
   },
   "no_hammer": {
-    "ends": 93,
-    "steals_for": 40,
-    "steal_rate": 0.43,
-    "force_exactly_one_ends": 30,
-    "force_rate": 0.323,
-    "defense_leq_one_ends": 75,
-    "defense_leq_one_rate": 0.806
+    "ends": 104,
+    "steals_for": 45,
+    "steal_rate": 0.433,
+    "force_exactly_one_ends": 35,
+    "force_rate": 0.337,
+    "defense_leq_one_ends": 85,
+    "defense_leq_one_rate": 0.817
   }
 }
