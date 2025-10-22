@@ -1,0 +1,38 @@
+{
+  "team": "Monsters",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 4,
+  "record": {
+    "wins": 4,
+    "losses": 0,
+    "ties": 0
+  },
+  "points": {
+    "for": 29,
+    "against": 13,
+    "diff": 16,
+    "avg_for_per_game": 7.25,
+    "avg_against_per_game": 3.25
+  },
+  "hammer": {
+    "ends": 14,
+    "scoring_ends": 8,
+    "two_plus_ends": 5,
+    "blank_ends": 0,
+    "scoring_rate": 0.571,
+    "two_plus_rate": 0.357,
+    "blank_rate": 0.0,
+    "steals_allowed": 6
+  },
+  "no_hammer": {
+    "ends": 13,
+    "steals_for": 7,
+    "steal_rate": 0.538,
+    "force_exactly_one_ends": 4,
+    "force_rate": 0.308,
+    "defense_leq_one_ends": 12,
+    "defense_leq_one_rate": 0.923
+  }
+}

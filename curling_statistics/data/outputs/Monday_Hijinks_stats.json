@@ -5,34 +5,34 @@
   ],
   "games_played": 21,
   "record": {
-    "wins": 7,
-    "losses": 1,
-    "ties": 13
+    "wins": 16,
+    "losses": 4,
+    "ties": 1
   },
   "points": {
-    "for": 66,
-    "against": 23,
-    "diff": 43,
-    "avg_for_per_game": 3.143,
-    "avg_against_per_game": 1.095
+    "for": 180,
+    "against": 76,
+    "diff": 104,
+    "avg_for_per_game": 8.571,
+    "avg_against_per_game": 3.619
   },
   "hammer": {
-    "ends": 23,
-    "scoring_ends": 15,
-    "two_plus_ends": 9,
+    "ends": 61,
+    "scoring_ends": 41,
+    "two_plus_ends": 25,
     "blank_ends": 2,
-    "scoring_rate": 0.652,
-    "two_plus_rate": 0.391,
-    "blank_rate": 0.087,
-    "steals_allowed": 6
+    "scoring_rate": 0.672,
+    "two_plus_rate": 0.41,
+    "blank_rate": 0.033,
+    "steals_allowed": 18
   },
   "no_hammer": {
-    "ends": 29,
-    "steals_for": 18,
-    "steal_rate": 0.621,
-    "force_exactly_one_ends": 7,
-    "force_rate": 0.241,
-    "defense_leq_one_ends": 26,
-    "defense_leq_one_rate": 0.897
+    "ends": 80,
+    "steals_for": 45,
+    "steal_rate": 0.562,
+    "force_exactly_one_ends": 21,
+    "force_rate": 0.263,
+    "defense_leq_one_ends": 69,
+    "defense_leq_one_rate": 0.863
   }
 }

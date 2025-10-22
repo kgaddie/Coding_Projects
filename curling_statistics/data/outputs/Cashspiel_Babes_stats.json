@@ -1,0 +1,38 @@
+{
+  "team": "Cashspiel Babes",
+  "seasons": [
+    "2024-2025"
+  ],
+  "games_played": 8,
+  "record": {
+    "wins": 1,
+    "losses": 7,
+    "ties": 0
+  },
+  "points": {
+    "for": 29,
+    "against": 50,
+    "diff": -21,
+    "avg_for_per_game": 3.625,
+    "avg_against_per_game": 6.25
+  },
+  "hammer": {
+    "ends": 31,
+    "scoring_ends": 13,
+    "two_plus_ends": 6,
+    "blank_ends": 2,
+    "scoring_rate": 0.419,
+    "two_plus_rate": 0.194,
+    "blank_rate": 0.065,
+    "steals_allowed": 16
+  },
+  "no_hammer": {
+    "ends": 27,
+    "steals_for": 7,
+    "steal_rate": 0.259,
+    "force_exactly_one_ends": 11,
+    "force_rate": 0.407,
+    "defense_leq_one_ends": 19,
+    "defense_leq_one_rate": 0.704
+  }
+}

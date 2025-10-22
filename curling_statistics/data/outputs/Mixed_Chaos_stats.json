@@ -1,0 +1,38 @@
+{
+  "team": "Mixed Chaos",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 7,
+  "record": {
+    "wins": 2,
+    "losses": 5,
+    "ties": 0
+  },
+  "points": {
+    "for": 25,
+    "against": 44,
+    "diff": -19,
+    "avg_for_per_game": 3.571,
+    "avg_against_per_game": 6.286
+  },
+  "hammer": {
+    "ends": 27,
+    "scoring_ends": 12,
+    "two_plus_ends": 2,
+    "blank_ends": 1,
+    "scoring_rate": 0.444,
+    "two_plus_rate": 0.074,
+    "blank_rate": 0.037,
+    "steals_allowed": 14
+  },
+  "no_hammer": {
+    "ends": 18,
+    "steals_for": 6,
+    "steal_rate": 0.333,
+    "force_exactly_one_ends": 9,
+    "force_rate": 0.5,
+    "defense_leq_one_ends": 15,
+    "defense_leq_one_rate": 0.833
+  }
+}

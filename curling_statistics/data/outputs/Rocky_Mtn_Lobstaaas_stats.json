@@ -1,0 +1,38 @@
+{
+  "team": "Rocky Mtn Lobstaaas",
+  "seasons": [
+    "2024-2025"
+  ],
+  "games_played": 4,
+  "record": {
+    "wins": 4,
+    "losses": 0,
+    "ties": 0
+  },
+  "points": {
+    "for": 30,
+    "against": 11,
+    "diff": 19,
+    "avg_for_per_game": 7.5,
+    "avg_against_per_game": 2.75
+  },
+  "hammer": {
+    "ends": 6,
+    "scoring_ends": 4,
+    "two_plus_ends": 1,
+    "blank_ends": 0,
+    "scoring_rate": 0.667,
+    "two_plus_rate": 0.167,
+    "blank_rate": 0.0,
+    "steals_allowed": 2
+  },
+  "no_hammer": {
+    "ends": 18,
+    "steals_for": 12,
+    "steal_rate": 0.667,
+    "force_exactly_one_ends": 3,
+    "force_rate": 0.167,
+    "defense_leq_one_ends": 16,
+    "defense_leq_one_rate": 0.889
+  }
+}

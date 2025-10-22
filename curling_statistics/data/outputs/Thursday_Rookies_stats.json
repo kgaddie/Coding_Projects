@@ -3,36 +3,36 @@
   "seasons": [
     "2023-2024"
   ],
-  "games_played": 8,
+  "games_played": 17,
   "record": {
-    "wins": 4,
-    "losses": 4,
+    "wins": 8,
+    "losses": 9,
     "ties": 0
   },
   "points": {
-    "for": 50,
-    "against": 48,
-    "diff": 2,
-    "avg_for_per_game": 6.25,
-    "avg_against_per_game": 6.0
+    "for": 110,
+    "against": 97,
+    "diff": 13,
+    "avg_for_per_game": 6.471,
+    "avg_against_per_game": 5.706
   },
   "hammer": {
-    "ends": 23,
-    "scoring_ends": 13,
-    "two_plus_ends": 6,
+    "ends": 46,
+    "scoring_ends": 28,
+    "two_plus_ends": 13,
     "blank_ends": 0,
-    "scoring_rate": 0.565,
-    "two_plus_rate": 0.261,
+    "scoring_rate": 0.609,
+    "two_plus_rate": 0.283,
     "blank_rate": 0.0,
-    "steals_allowed": 10
+    "steals_allowed": 18
   },
   "no_hammer": {
-    "ends": 35,
-    "steals_for": 18,
-    "steal_rate": 0.514,
-    "force_exactly_one_ends": 8,
-    "force_rate": 0.229,
-    "defense_leq_one_ends": 27,
-    "defense_leq_one_rate": 0.771
+    "ends": 73,
+    "steals_for": 39,
+    "steal_rate": 0.534,
+    "force_exactly_one_ends": 11,
+    "force_rate": 0.151,
+    "defense_leq_one_ends": 52,
+    "defense_leq_one_rate": 0.712
   }
 }

@@ -1,0 +1,38 @@
+{
+  "team": "Thursday Women",
+  "seasons": [
+    "2024-2025"
+  ],
+  "games_played": 7,
+  "record": {
+    "wins": 6,
+    "losses": 1,
+    "ties": 0
+  },
+  "points": {
+    "for": 45,
+    "against": 27,
+    "diff": 18,
+    "avg_for_per_game": 6.429,
+    "avg_against_per_game": 3.857
+  },
+  "hammer": {
+    "ends": 24,
+    "scoring_ends": 14,
+    "two_plus_ends": 9,
+    "blank_ends": 2,
+    "scoring_rate": 0.583,
+    "two_plus_rate": 0.375,
+    "blank_rate": 0.083,
+    "steals_allowed": 8
+  },
+  "no_hammer": {
+    "ends": 21,
+    "steals_for": 8,
+    "steal_rate": 0.381,
+    "force_exactly_one_ends": 12,
+    "force_rate": 0.571,
+    "defense_leq_one_ends": 20,
+    "defense_leq_one_rate": 0.952
+  }
+}

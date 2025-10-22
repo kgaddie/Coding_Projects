@@ -7,6 +7,11 @@ Git Repository for Coding and Analytics Projects
 ### Curling Statistics
 This project involves the compilation of data from curling matches in the form of scoreboard results and the resultant dataframe of analytics provided by team. The calculations included inside will enable users/teams to see the trends in a variety of important aspects of the game, including (but not limited to): hammer efficiency, steal efficiency, steal defense efficiency, and average points scored aggregated by opponents, season, and in total overall performance history.
 
+### Leetcode Repository
+A section of the repository dedicated to code developed in solving of LeetCode Problems. Scope primarily involves Python, but also includes Problem Solving, SQL, and R.
+
+LeetCode is an online website designed to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
 ### Reference Scripts
 Scripts contained in this folder are for use for future code projects and serve as functional references for interacting with data.
 

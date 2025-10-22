@@ -1,0 +1,38 @@
+{
+  "team": "Raccoons",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 15,
+  "record": {
+    "wins": 11,
+    "losses": 3,
+    "ties": 1
+  },
+  "points": {
+    "for": 100,
+    "against": 72,
+    "diff": 28,
+    "avg_for_per_game": 6.667,
+    "avg_against_per_game": 4.8
+  },
+  "hammer": {
+    "ends": 57,
+    "scoring_ends": 32,
+    "two_plus_ends": 18,
+    "blank_ends": 5,
+    "scoring_rate": 0.561,
+    "two_plus_rate": 0.316,
+    "blank_rate": 0.088,
+    "steals_allowed": 20
+  },
+  "no_hammer": {
+    "ends": 57,
+    "steals_for": 21,
+    "steal_rate": 0.368,
+    "force_exactly_one_ends": 21,
+    "force_rate": 0.368,
+    "defense_leq_one_ends": 47,
+    "defense_leq_one_rate": 0.825
+  }
+}

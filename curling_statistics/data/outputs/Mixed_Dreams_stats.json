@@ -1,0 +1,38 @@
+{
+  "team": "Mixed Dreams",
+  "seasons": [
+    "2023-2024"
+  ],
+  "games_played": 4,
+  "record": {
+    "wins": 3,
+    "losses": 1,
+    "ties": 0
+  },
+  "points": {
+    "for": 31,
+    "against": 13,
+    "diff": 18,
+    "avg_for_per_game": 7.75,
+    "avg_against_per_game": 3.25
+  },
+  "hammer": {
+    "ends": 12,
+    "scoring_ends": 8,
+    "two_plus_ends": 3,
+    "blank_ends": 1,
+    "scoring_rate": 0.667,
+    "two_plus_rate": 0.25,
+    "blank_rate": 0.083,
+    "steals_allowed": 3
+  },
+  "no_hammer": {
+    "ends": 16,
+    "steals_for": 10,
+    "steal_rate": 0.625,
+    "force_exactly_one_ends": 3,
+    "force_rate": 0.188,
+    "defense_leq_one_ends": 13,
+    "defense_leq_one_rate": 0.812
+  }
+}
