@@ -47,8 +47,8 @@ Each row represents a **single game** for one team. The dataset must include the
 ## Example CSV
 ```
 Season,Date,Team Name,Opponent,Location,Outcome,Sheet,Stone Color,Game Type,Planned Ends,Ends Played,End 1,End 2,End 3,End 4,End 5,End 6,End 7,End 8,End 9
-2025,2025-02-01,Smith Rink,Johnson Rink,Denver,W 7-6,A,Red,League,8,8,+2H,-1N,0H,+1H,-2N,+3H,0H,-1N,
-2025,2025-02-05,Smith Rink,Adams Rink,Boulder,L 4-5,B,Yellow,Bonspiel,8,6,0H,+2H,-1N,+1H,-2N,+2H,,,
+2025,2025-02-01,Raccoons,Matthews,Denver CC,W 7-6,A,Red,League,8,8,+2H,-1N,0H,+1H,-2N,+3H,0H,-1N,
+2025,2025-02-05,Monsters,Loons,Coyotes CC,L 4-5,B,Yellow,Bonspiel,8,6,0H,+2H,-1N,+1H,-2N,+2H,,,
 ```
 
 ---
@@ -59,16 +59,16 @@ Season,Date,Team Name,Opponent,Location,Outcome,Sheet,Stone Color,Game Type,Plan
 Use `curling_stats.py` to analyze one team:
 
 ```bash
-python curling_stats.py games.csv "Smith Rink"
+python curling_stats.py games.csv "Raccoons"
 ```
 
 Optional flags:
 ```bash
 # Specify season filter
-python curling_stats.py games.csv "Smith Rink" --season 2025
+python curling_stats.py games.csv "Raccoons" --season 2023-2024
 
 # Save outputs
-python curling_stats.py games.xlsx "Smith Rink" --out-json smith_stats.json --out-games smith_games.csv
+python curling_stats.py games.xlsx "Raccoons" --out-json raccoon_stats.json --out-games raccoon_games.csv
 ```
 
 This creates per-team summary files containing game-level and aggregate stats.
@@ -92,7 +92,7 @@ By default, this script:
 You can customize input, season, and output directory without editing the script:
 
 ```bash
-CURLING_INPUT=games.xlsx CURLING_SEASON=2025 CURLING_OUTDIR=outputs python run_all_teams.py
+CURLING_INPUT=games.xlsx CURLING_SEASON=2024-2025 CURLING_OUTDIR=outputs python run_all_teams.py
 ```
 
 #### Output Files
@@ -173,13 +173,13 @@ Contains per-game data for all teams, merged with a `__Team__` column to identif
 ## Example Usage Summary
 ```bash
 # Single team
-python curling_stats.py games.csv "Smith Rink" --season 2025 --out-json smith.json --out-games smith_games.csv
+python curling_stats.py games.csv "Raccoons" --season 2024-2025 --out-json raccoons.json --out-games raccoons_games.csv
 
 # All teams, auto outputs
 python run_all_teams.py
 
 # All teams, with custom inputs and season filter
-CURLING_INPUT=games.xlsx CURLING_SEASON=2025 CURLING_OUTDIR=outputs python run_all_teams.py
+CURLING_INPUT=games.xlsx CURLING_SEASON=2025-2026 CURLING_OUTDIR=outputs python run_all_teams.py
 ```
 
 ---

@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Curling Team Stats (Fixed Column Schema)
 =======================================
@@ -7,18 +6,18 @@ This script ingests a tabular dataset of curling games (CSV/Excel/Parquet) with 
 fixed set of columns and computes a set of statistics for a given team.
 
 Required columns (exact logical fields; matching is case-insensitive):
-- Season
-- Date
-- Team Name
-- Opponent
-- Location
-- Outcome
-- Sheet
-- Stone Color
-- Game Type
-- Planned Ends
-- Ends Played
-- End 1, End 2, ... End 9 (any subset present is OK)
+- Season [ex: 2024-2025], text
+- Date [ex: 2024-11-15], date/text
+- Team Name [ex: "Monsters"], text
+- Opponent [ex: "Matthews"], text
+- Location [ex: "Denver CC"], text
+- Outcome [ex: "Win", "Loss"], text
+- Sheet [ex: "A", "3"], text
+- Stone Color [ex: "Red", "Yellow"], text
+- Game Type [ex: "League", "Playoff"], text
+- Planned Ends [ex: 8, 10], integer
+- Ends Played [ex: 8, 10], integer
+- End 1, End 2, ... End 9 (any subset present is OK) [ex: "+2H", "-1N", "B"], text
 
 Per-end cell encoding (flexible):
 - "+2H" → scored 2 with hammer
